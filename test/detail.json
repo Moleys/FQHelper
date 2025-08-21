@@ -1,0 +1,233 @@
+{
+  "code": "SUCCESS",
+  "data": {
+    "adFreeShow": "0",
+    "author": "一月九十秋",
+    "authorId": "2_7112373971596612902",
+    "authorInfo": {
+      "allBookTotalComment": 0,
+      "allBookTotalReadUv": 0,
+      "authorBookNum": 0,
+      "authorRole": "",
+      "authorType": 0,
+      "canFollow": true,
+      "creationNum": 0,
+      "description": "关注我，掌握书籍最新动态",
+      "encodeUserId": "#c1967_MTk2NzE5NjcxOTY3MTk2NwPaRHWJEjBqPGU99UXiJ98\u003d",
+      "expandUserAvatar": "https://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/4fdf58826aaa4360904b3654c413803e~tplv-s85hriknmn-jpeg.heic?lk3s\u003d45961287\u0026x-expires\u003d1758043378\u0026x-signature\u003dAm5HRHByw4ozIfyila0zrZlnOOU%3D",
+      "fanRankNum": 0,
+      "fansNum": 0,
+      "fansSchema": "dragon1967://webview?loadingButHideByFront\u003d1\u0026hideNavigationBar\u003d1\u0026bounceDisable\u003d1\u0026hideStatusBar\u003d1\u0026url\u003dhttps%3A%2F%2Freading.snssdk.com%2Freading_offline%2Fdrweb_community%2Fpage%2Fuser-social.html%3Ftab%3Dfans%26user_id%3D%252523c1967_y3iuGZi9kmReWMbH6Ws3KZeIMr2Do9IpNkWKzvC%25252BIec%25253D",
+      "followSchema": "dragon1967://webview?loadingButHideByFront\u003d1\u0026hideNavigationBar\u003d1\u0026bounceDisable\u003d1\u0026hideStatusBar\u003d1\u0026url\u003dhttps%3A%2F%2Freading.snssdk.com%2Freading_offline%2Fdrweb_community%2Fpage%2Fuser-social.html%3Ftab%3Dfollow%26user_id%3D%252523c1967_y3iuGZi9kmReWMbH6Ws3KZeIMr2Do9IpNkWKzvC%25252BIec%25253D",
+      "followUserNum": 0,
+      "followedTime": 0,
+      "gender": "FEMALE",
+      "hasBaike": false,
+      "hasMedal": false,
+      "hasMore": false,
+      "hasUnreadContent": false,
+      "isAdFreeVip": false,
+      "isAuthor": true,
+      "isBookChasingUser": false,
+      "isCancelled": false,
+      "isCommunityProtocolShow": false,
+      "isCopyrightOwner": false,
+      "isCp": false,
+      "isDislike": false,
+      "isDisplayBookList": false,
+      "isOfficialCert": false,
+      "isPubVip": false,
+      "isReader": false,
+      "isStoryVip": false,
+      "isVip": true,
+      "profileGender": "FEMALE",
+      "readBookNum": 0,
+      "readBookTime": 0,
+      "recvDiggNum": 0,
+      "relateMediaId": 0,
+      "relationType": "None",
+      "ugcReadBookCount": 2,
+      "ugcSaviorCommentCount": 0,
+      "useBaikeAuthorInfo": false,
+      "userAvatar": "https://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/4fdf58826aaa4360904b3654c413803e~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s\u003d45961287\u0026x-expires\u003d1758043378\u0026x-signature\u003dLlqtEwWwBOrafwm7KUP5x9huqlE%3D",
+      "userId": "321510680310493",
+      "userName": "一月九十秋",
+      "userTitleInfos": [
+        {
+          "extra": "{\"priority\":1,\"tag\":\"\"}",
+          "introInfo": {
+            "iconType": 0,
+            "noNeedPopup": false,
+            "titleId": "kingfan_author",
+            "titleName": "金番作家"
+          },
+          "isAuthorTitle": true,
+          "labelInfo": {
+            "bgDarkColor": "{\"start\":\"#CC8029\",\"end\":\"#CC9349\"}",
+            "bgDefaultColor": "{\"start\":\"#FF9F31\",\"end\":\"#FFB95C\"}",
+            "titleDarkColor": "#FFFFFF",
+            "titleDarkDiaphaneity": "CC",
+            "titleDefaultColor": "#FFFFFF",
+            "titleText": "金番作家"
+          },
+          "relativeType": 0,
+          "schema": "dragon1967://webview?url\u003dhttps%3A%2F%2Freading.snssdk.com%2Fmagic%2Feco%2Fruntime%2Frelease%2F68468369afdf8e8cde779d2a%3Factivity%3D6846831cada780058f193d10%26appType%3Ddragon%26magic_page_no%3D1%26magic_source%3Dmp_default%26module_name%3D%26tab_name%3D\u0026hideNavigationBar\u003d1\u0026bounceDisable\u003d1\u0026hideStatusBar\u003d1",
+          "title": "kingfan_author",
+          "titleText": "金番作家"
+        }
+      ],
+      "userType": 12,
+      "vestType": 0
+    },
+    "authorizeType": "1",
+    "avatarUrl": "",
+    "bookAbstract": "我做人有2个原则：\n1.从不骗人\n2.从不相信任何人说的话，包括我自己\n“先生，我想提醒您，您说的第二点跟第一点冲突了。”\n“哪里冲突？”\n“您既然从不骗人，为何不相信自己说的话呢？”\n“哦，抱歉，忘了说，我没把自己当人。”\n“？”\n...\n自我介绍一下，我叫程实，从不骗人的程实。\n什么，你没听说过我？\n没关系，你只是还没被我骗过。\n很快，你就会记得了。\n...\n书名《诸神愚戏》，其他均为推广。\n【神明末世+排位游戏+多命途职业组合+欢乐脑洞+沾点克系+无限流+偏群像】\n无系统，不无敌，非爽文，介意慎入\n...",
+    "bookId": "7338034838672247833",
+    "bookName": "诸神愚戏",
+    "bookNameUrl": "https://lf3-reading.fqnovelstatic.com/obj/novel-common/img_peak_cover_v669_7338034838672247833_44.png",
+    "bookShortName": "",
+    "bookType": "0",
+    "category": "都市高武",
+    "categorySchema": "[{\"category_id\":1014,\"name\":\"都市高武\",\"schema\":\"dragon1967://categorySearch?categoryId\u003d1014\u0026categoryName\u003d都市高武\u0026genreType\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":1,\"name\":\"都市\",\"schema\":\"dragon1967://categorySearch?categoryId\u003d1\u0026categoryName\u003d都市\u0026genreType\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":68,\"name\":\"末世\",\"schema\":\"dragon1967://categorySearch?categoryId\u003d68\u0026categoryName\u003d末世\u0026genreType\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":70,\"name\":\"无限流\",\"schema\":\"dragon1967://categorySearch?categoryId\u003d70\u0026categoryName\u003d无限流\u0026genreType\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":841,\"name\":\"群像\",\"schema\":\"dragon1967://categorySearch?categoryId\u003d841\u0026categoryName\u003d群像\u0026genreType\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+    "coinPrice": 0,
+    "colorDominate": "#d0c8c8",
+    "completeCategory": "",
+    "content": "\u003chtml\u003e\u003chead\u003e\u003c/head\u003e\u003cbody\u003e\u003cp idx\u003d\"0\"\u003e“医生！医生！我感觉我要生了！”\u003c/p\u003e\u003cp idx\u003d\"1\"\u003e昏暗的小诊所里传来撕心裂肺的惨叫声，一个满身血污的女人被绑在锈蚀不堪的分娩椅上扭动挣扎。\u003c/p\u003e\u003cp idx\u003d\"2\"\u003e“快啊！医生，你快来看一眼，他要出来了！！”\u003c/p\u003e\u003cp idx\u003d\"3\"\u003e“你怎么还不过来！医生！医生！？你究竟是不是医生？？你转过来看一眼啊！！！”\u003c/p\u003e\u003cp idx\u003d\"4\"\u003e孕妇的叫声越来越尖锐，挣扎的动作也越来越癫狂，可站在一旁的医生始终没有回头看她一眼，只是点了点头，慢条斯理的敷衍道：\u003c/p\u003e\u003cp idx\u003d\"5\"\u003e“好，好，就来了，别急，我正在准备接生工具，这位夫人，你也不想自己的孩子一出生就掉在地上吧？”\u003c/p\u003e\u003cp idx\u003d\"6\"\u003e这句话似乎对逐渐发狂的孕妇有致命的杀伤力，她癫狂的气势一滞，发红的双眼也渐渐恢复清明，眼珠机械又缓慢的转了一圈，慢慢看向自己的肚子，有些痴傻的应道：\u003c/p\u003e\u003cp idx\u003d\"7\"\u003e“孩子......对，孩子......孩子不能掉在地上，我要生孩子，孩子不能掉在地上......”\u003c/p\u003e\u003cp idx\u003d\"8\"\u003e她的嘴里反复念叨着这句话，情绪也渐渐趋于稳定，不多时，小诊所里再次安静下来，只剩下“哐哐”作响的砸铁声。\u003c/p\u003e\u003cp idx\u003d\"9\"\u003e这是医生在制作接生工具。\u003c/p\u003e\u003cp idx\u003d\"10\"\u003e细碎的火花从医生身前溅出，倏忽间将昏暗的空间点亮了一瞬。\u003c/p\u003e\u003cp idx\u003d\"11\"\u003e孕妇的注意力被火花吸引，她抱着肚子，转头看向医生的后背，双眼又开始渐渐变红，表情也慢慢再次狰狞。\u003c/p\u003e\u003cp idx\u003d\"12\"\u003e“医生！你在干什么！你在干什么！？”\u003c/p\u003e\u003cp idx\u003d\"13\"\u003e“我？不是跟你说了吗，我在准备接生工具啊，诊所里最近患者太多，护士都去帮忙了，这些杂活只好我自己来。”\u003c/p\u003e\u003cp idx\u003d\"14\"\u003e说着，医生转过身来，将手里刚刚敲打合拢的粗糙钢锯展示给孕妇看，脸上还绽开一个阳光开朗的笑容，颇有些自豪道：\u003c/p\u003e\u003cp idx\u003d\"15\"\u003e“你看，准备好了。”\u003c/p\u003e\u003cp idx\u003d\"16\"\u003e孕妇看到钢锯的一瞬间，整个人突然抽搐起来，皮质绑带在她的挣扎下拉扯着生锈的椅子发出让人牙酸的摩擦声。\u003c/p\u003e\u003cp idx\u003d\"17\"\u003e她的双腿疯狂乱蹬，将身上的污血泼洒的到处都是。\u003c/p\u003e\u003cp idx\u003d\"18\"\u003e“你要干什么！这不是接生工具！你要干什么！！”\u003c/p\u003e\u003cp idx\u003d\"19\"\u003e“夫人，请您看仔细些，这就是接生宫锯。”\u003c/p\u003e\u003cp idx\u003d\"20\"\u003e医生提着钢锯靠近孕妇，视线在不规则的锯齿上流连，仿佛在欣赏一件艺术品，同时口里啧啧有声的赞叹道：\u003c/p\u003e\u003cp idx\u003d\"21\"\u003e“这可是发表在《SCIENCE》上最前沿的接生技术，只需要用这把宫锯将您的肚子剖开，您的孩子就可以完好无损的降生在分娩椅上，从源头上避免了孩子顺产有大概率掉在地上的悲剧，降低了受感染的风险；\u003c/p\u003e\u003cp idx\u003d\"22\"\u003e并且这锋利的锯齿可以加大创面，确保生产过程中不会因为空间太小而卡住孩子的头。”\u003c/p\u003e\u003cp idx\u003d\"23\"\u003e医生提着工具在孕妇的肚子上丈量了下，眯眼笑着：\u003c/p\u003e\u003cp idx\u003d\"24\"\u003e“最重要的是，此方案目前，0差评。”\u003c/p\u003e\u003cp idx\u003d\"25\"\u003e“孩子......安全......我的孩子......会安全......”\u003c/p\u003e\u003cp idx\u003d\"26\"\u003e“是的夫人，请你放心，我是全诊所资历最深的接生大夫，一定会保证您孩子的安全。”\u003c/p\u003e\u003cp idx\u003d\"27\"\u003e孕妇得到了许诺，突然变得激动起来，她用力拍打着自己隆起如小山的肚子，伸着头急不可耐的喊道：\u003c/p\u003e\u003cp idx\u003d\"28\"\u003e“快！快给我接生！我的孩子要出来了！快啊医生！！快！”\u003c/p\u003e\u003cp idx\u003d\"29\"\u003e“为您服务，是我的荣幸。”\u003c/p\u003e\u003cp idx\u003d\"30\"\u003e医生提着粗糙的钢锯，双手丝毫不抖，而后轻触肌肤熟练的向上一划。\u003c/p\u003e\u003cp idx\u003d\"31\"\u003e“哧——”\u003c/p\u003e\u003cp idx\u003d\"32\"\u003e一条细长的血线蜿蜒向上，熟透的西瓜弹指裂开。\u003c/p\u003e\u003cp idx\u003d\"33\"\u003e紧接着！\u003c/p\u003e\u003cp idx\u003d\"34\"\u003e“砰——”\u003c/p\u003e\u003cp idx\u003d\"35\"\u003e不堪重负的身体如同被划破的气球，轰然爆开，污血四溅。\u003c/p\u003e\u003cp idx\u003d\"36\"\u003e她还没死。\u003c/p\u003e\u003cp idx\u003d\"37\"\u003e她因为剧痛而嘶声惨叫，双手双脚一齐挣扎着，恶毒又惊恐的目光看向医生，疯狂嘶吼道：\u003c/p\u003e\u003cp idx\u003d\"38\"\u003e“你在做什么？你在做什么！？你想杀死我！你想杀死我的孩子！！”\u003c/p\u003e\u003cp idx\u003d\"39\"\u003e医生的身上被喷满了血液，可唯独脸上非常干净，他轻轻移开挡住脸部的钢锯，再次笑着安慰患者道：\u003c/p\u003e\u003cp idx\u003d\"40\"\u003e“夫人，你这么说真是太让人伤心了，我这可是在救你和你的孩子啊，你看，你的孩子......安全的降生了。”\u003c/p\u003e\u003cp idx\u003d\"41\"\u003e孕妇疯狂的动作一滞，极度喜悦的向自己的肚子看去，却见在满是烂肉的腹腔中，一双硕大的纯黑色眼眸，正眨呀眨的看着自己。\u003c/p\u003e\u003cp idx\u003d\"42\"\u003e这双眼睛非常清澈有神，很吸引人。\u003c/p\u003e\u003cp idx\u003d\"43\"\u003e如果它的本体不是一条扭动的触手的话，或许会更加惹人怜爱。\u003c/p\u003e\u003cp idx\u003d\"44\"\u003e看着犹如章鱼触脚般的恐怖新生儿，医生会心一笑，赞美道：\u003c/p\u003e\u003cp idx\u003d\"45\"\u003e“快看，你的孩子多么健康，双目炯炯有神，一看就是个......额......就是个......眼睛大的。”\u003c/p\u003e\u003cp idx\u003d\"46\"\u003e孕妇脸上的惊喜因为这句不知所谓的赞扬凝固了一下，但这丝毫不妨碍她表现出自己对孩子那满溢而出的爱。\u003c/p\u003e\u003cp idx\u003d\"47\"\u003e她枯瘦的眼眶中，溢出了欢喜的黑血。\u003c/p\u003e\u003cp idx\u003d\"48\"\u003e“孩子！我的孩子！！”\u003c/p\u003e\u003cp idx\u003d\"49\"\u003e“对，是你的孩子。”\u003c/p\u003e\u003cp idx\u003d\"50\"\u003e“把我的孩子抱过来！我要看看他！是个男孩还是女孩？”\u003c/p\u003e\u003cp idx\u003d\"51\"\u003e医生听了这话，笑容一滞，脸上露出了些许纠结。\u003c/p\u003e\u003cp idx\u003d\"52\"\u003e讲道理，如果硬要给一个章鱼脚分性别的话......\u003c/p\u003e\u003cp idx\u003d\"53\"\u003e“恭喜夫人，是个......带把儿的......男孩。”\u003c/p\u003e\u003cp idx\u003d\"54\"\u003e它确实带把儿，甚至它本身就是个把儿。\u003c/p\u003e\u003cp idx\u003d\"55\"\u003e“男孩......男孩！？”\u003c/p\u003e\u003cp idx\u003d\"56\"\u003e孕妇的声调再次拔高，即使受了重伤都不能阻止她的扭动和挣扎，疯狂的神色又一次爬上了她那满是污血的可怖瘦脸。\u003c/p\u003e\u003cp idx\u003d\"57\"\u003e“为什么是男孩！为什么会是男孩？！她明明应该是个女孩！是你！肯定是你的接生技术有问题！是你！！你这个庸医！”\u003c/p\u003e\u003cp idx\u003d\"58\"\u003e或许是感受到了自己母亲的愤怒，躺在血泊中的新生儿无辜的眨了眨眼。\u003c/p\u003e\u003cp idx\u003d\"59\"\u003e你别说，不看身子只看眼的话，还挺萌。\u003c/p\u003e\u003cp idx\u003d\"60\"\u003e医生看着这哭笑不得的一幕摇头叹息道：\u003c/p\u003e\u003cp idx\u003d\"61\"\u003e“夫人，你应该知道，孩子的性别取决于父母，而不是医生，或许，你应该去问问孩子的父亲。”\u003c/p\u003e\u003cp idx\u003d\"62\"\u003e“孩子的父亲......”孕妇的双眼迷茫了一下，而后突然恶毒的嘲笑起来。\u003c/p\u003e\u003cp idx\u003d\"63\"\u003e“他不在了......我吃了他.......哈哈哈他死了！那个男人，居然想要当孩子的母亲......他不配，只有我才能当母亲......”\u003c/p\u003e\u003cp idx\u003d\"64\"\u003e“......嗯......嗯？”\u003c/p\u003e\u003cp idx\u003d\"65\"\u003e“他不在了......找不到了......哈哈哈他不见了......我才是孩子的母亲！”\u003c/p\u003e\u003cp idx\u003d\"66\"\u003e医生的cpu过载了一会儿。\u003c/p\u003e\u003cp idx\u003d\"67\"\u003e但过硬的专业素养让他很快就抓到了商机，挑了挑眉毛略有些激动的说道：\u003c/p\u003e\u003cp idx\u003d\"68\"\u003e“如果只是简单的死亡，我们诊所可以为夫人你提供询问死灵的特殊服务，你仍有机会去问问他，为什么你的孩子会是一个男孩。\u003c/p\u003e\u003cp idx\u003d\"69\"\u003e但是，这个服务，可能有点贵。\u003c/p\u003e\u003cp idx\u003d\"70\"\u003e不过我觉得，为了孩子，一切都值得......”\u003c/p\u003e\u003cp idx\u003d\"71\"\u003e他卖力的推销着，仿佛这一单成了之后能分到很多钱。\u003c/p\u003e\u003cp idx\u003d\"72\"\u003e或许是被医生的真诚说动了，孕妇的眼神在阴毒和迷茫中切换了好几次，最终还是如行尸走肉般点了点头。\u003c/p\u003e\u003cp idx\u003d\"73\"\u003e“我的孩子，必须有个说法，我要怎么做！快，医生，我要去问他！”\u003c/p\u003e\u003cp idx\u003d\"74\"\u003e“很好夫人，首先，请您闭上眼。”\u003c/p\u003e\u003cp idx\u003d\"75\"\u003e看着孕妇有些迟疑的闭上了眼，医生的嘴角勾起一抹诡异的笑容。\u003c/p\u003e\u003cp idx\u003d\"76\"\u003e他提着钢锯，将粗糙的锯齿再次移到了她的脖子上。\u003c/p\u003e\u003cp idx\u003d\"77\"\u003e“然后用力深呼吸......对对，很好，头要后仰对，脖子再抬高一些，好，不要急，马上......”\u003c/p\u003e\u003cp idx\u003d\"78\"\u003e“哧......”\u003c/p\u003e\u003cp idx\u003d\"79\"\u003e医生手抖了一下。\u003c/p\u003e\u003cp idx\u003d\"80\"\u003e吧嗒......有什么东西掉了。\u003c/p\u003e\u003cp idx\u003d\"81\"\u003e污血四溅而出，在雪白的墙上溅出一张绝美的朱砂图。\u003c/p\u003e\u003cp idx\u003d\"82\"\u003e“额......虽然出了点意外，但是手术很顺利，夫人，您可以去找孩子的父亲了。”\u003c/p\u003e\u003cp idx\u003d\"83\"\u003e医生轻啧一声，沾满血污的手在白大褂上随意擦了擦，又瞥向了地上的脑袋。\u003c/p\u003e\u003cp idx\u003d\"84\"\u003e“噫，怪吓人的。”\u003c/p\u003e\u003cp idx\u003d\"85\"\u003e他赶忙一脚将它踢开，然后抬起钢锯，转头看向病人尸体上的那根触手。\u003c/p\u003e\u003cp idx\u003d\"86\"\u003e大眼睛还在忽闪忽闪的眨，它似乎还没认清现在是什么状况，或者，它根本还没有认知能力。\u003c/p\u003e\u003cp idx\u003d\"87\"\u003e“我刚才说了，这个服务有点贵，你妈妈还没付钱，但她一时半会儿可能回不来了。\u003c/p\u003e\u003cp idx\u003d\"88\"\u003e不如......你替她付一下？”\u003c/p\u003e\u003cp idx\u003d\"89\"\u003e虽然没有认知力，但感受到死亡的接近时，新生儿还是本能的剧烈挣扎起来。\u003c/p\u003e\u003cp idx\u003d\"90\"\u003e只不过这种挣扎，在医生眼里，更像是一种邀请。\u003c/p\u003e\u003cp idx\u003d\"91\"\u003e砧板的上鱼跳的越欢，渔夫剁起来就越来劲。\u003c/p\u003e\u003cp idx\u003d\"92\"\u003e“哧——”\u003c/p\u003e\u003cp idx\u003d\"93\"\u003e医生毫不犹豫的洞穿了它的身体，新触手痛苦的抽搐着，不消片刻那双萌萌的大眼便彻底失去了光彩，一动不动。\u003c/p\u003e\u003cp idx\u003d\"94\"\u003e它在拥抱降生这天，同时也拥抱了死亡。\u003c/p\u003e\u003cp idx\u003d\"95\"\u003e“钱货两讫，谢谢惠顾！”\u003c/p\u003e\u003cp idx\u003d\"96\"\u003e医生优雅的鞠躬行礼，扔掉手里的钢锯，头也不回的走出了昏暗的房间。\u003c/p\u003e\u003cp idx\u003d\"97\"\u003e【单人试炼（残羹【诞育】）挑战成功】\u003c/p\u003e\u003cp idx\u003d\"98\"\u003e【正在评分，并结算奖励......】\u003c/p\u003e\u003cp idx\u003d\"99\"\u003e【玩家：程实，表现评分：S】\u003c/p\u003e\u003cp idx\u003d\"100\"\u003e【获得食物：手指面包（C） X5】\u003c/p\u003e\u003cp idx\u003d\"101\"\u003e【获得食物：罐装粘液饮料（C） X5】\u003c/p\u003e\u003cp idx\u003d\"102\"\u003e【获得食物：仿眼球蛋糕（B） X1】\u003c/p\u003e\u003cp idx\u003d\"103\"\u003e【登神之路+0，觐见之梯+0】（单人试炼不增加得分）\u003c/p\u003e\u003cp idx\u003d\"104\"\u003e【当前登神之路得分：2104，全球排名：499713】\u003c/p\u003e\u003cp idx\u003d\"105\"\u003e【当前觐见之梯得分：156，命途排名：74】\u003c/p\u003e\u003cp idx\u003d\"106\"\u003e【试炼通关，即将退出】\u003c/p\u003e\u003cp idx\u003d\"107\"\u003e...\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+    "copyrightInfo": "版权信息：本书的数字版权由 番茄小说 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+    "createTime": "2024-02-21T20:42:54+08:00",
+    "creationStatus": "1",
+    "customTotalPrice": "0",
+    "dataRate": "",
+    "defaultTab": "0",
+    "detailPageThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o456671fab473706eac056e1ae403e5c3~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d45961287\u0026x-expires\u003d1760694947\u0026x-signature\u003dIuOy8W6oMGGa6FJ%2F8MFx6DC1Fs8%3D",
+    "disableReaderFeature": 98304,
+    "discountCustomTotalPrice": "0",
+    "exclusive": "1",
+    "firstChapterGroupId": "7338034968456610329",
+    "firstChapterItemId": "7338034968456610329",
+    "firstChapterTitle": "第1章 接生",
+    "firstOnlineTime": "{\"510893\":1708521529,\"3040\":1708671711,\"1319\":1708658525,\"35\":1708521529,\"2503\":1708521529,\"13\":1708521529,\"507386\":1741788358,\"8662\":1708521529,\"638505\":1724763349,\"507427\":1741788358,\"2329\":1708521529,\"8704\":1747147913,\"596084\":1714097944,\"6589\":1708671711,\"8661\":1708671711,\"8703\":1744959923,\"1967\":1708521529,\"1128\":1708521529}",
+    "flightUserSelected": "1",
+    "forYoung": false,
+    "freeStatus": "0",
+    "gender": "MALE",
+    "genre": "0",
+    "genreType": "0",
+    "hideListenBall": false,
+    "inBookshelf": "1",
+    "isFixPoster": false,
+    "isPubPay": false,
+    "keepPublishDays": "543",
+    "lastChapterGroupId": "7539558267081458200",
+    "lastChapterItemId": "7539558267081458200",
+    "lastChapterTitle": "第1152章 神像的呓语",
+    "lastChapterUpdateTime": "1755440227",
+    "lastPublishTime": "1755475287",
+    "latestListenItemId": "7517648390423855678",
+    "latestListenTime": "1752369051",
+    "latestReadItemId": "7527324654013252121",
+    "latestReadTime": "1752844187",
+    "lengthType": "0",
+    "mediaId": "1736406755279885",
+    "mediaName": "番茄小说",
+    "novelTextType": "1",
+    "opTag": "1132,888,535,855,966,873,531,984,889,536,245,1129,1403",
+    "platform": "2",
+    "posterBackgroundUrl": "https://lf3-reading.fqnovelstatic.com/obj/novel-common/img_peak_cover_v669_7338034838672247833_5.png",
+    "posterId": "0",
+    "rankListAwardArray": [
+      {
+        "algoName": "巅峰榜",
+        "algoType": "RankListFengYun",
+        "awardText": "巅峰榜NO.3",
+        "url": "dragon1967://lynxview?client_ab_key\u003d%5B%22community_reward_rank_division_v593%22%2C%22rank_list_new_style%22%5D\u0026bounceDisable\u003d1\u0026hideNavigationBar\u003d1\u0026hideStatusBar\u003d1\u0026loadingButHideByFront\u003d1\u0026customBrightnessScheme\u003d1\u0026url\u003dsslocal%3A%2F%2Flynxview%3Fenable_code_cache%3D1%26loader_name%3Dforest%26surl%3Dhttps%253A%252F%252Flf-normal-gr-sourcecdn.bytegecko.com%252Fobj%252Fbyte-gurd-source-gr%252Fnovel%252Fdr%252Ffe%252Fdrlynx_distribution%252Fcommon-rank-list%252Ftemplate.js%3Falgo_type%253D200%2526category_id%253D0%2526category_ids%253D0%25252C37%25252C3%25252C19%25252C1%25252C7%25252C5%25252C452%25252C36%25252C262%25252C511%25252C29%25252C96%25252C257%25252C259%25252C32%2526category_names%253D%2525E5%252585%2525A8%2525E9%252583%2525A8%25252C%2525E7%2525A9%2525BF%2525E8%2525B6%25258A%25252C%2525E7%25258E%2525B0%2525E4%2525BB%2525A3%2525E8%2525A8%252580%2525E6%252583%252585%25252C%2525E7%2525B3%2525BB%2525E7%2525BB%25259F%25252C%2525E9%252583%2525BD%2525E5%2525B8%252582%25252C%2525E7%25258E%252584%2525E5%2525B9%2525BB%25252C%2525E5%25258F%2525A4%2525E4%2525BB%2525A3%2525E8%2525A8%252580%2525E6%252583%252585%25252C%2525E6%25259E%2525B6%2525E7%2525A9%2525BA%25252C%2525E9%252587%25258D%2525E7%252594%25259F%25252C%2525E9%252583%2525BD%2525E5%2525B8%252582%2525E8%252584%252591%2525E6%2525B4%25259E%25252C%2525E4%2525B8%25259C%2525E6%252596%2525B9%2525E7%25258E%252584%2525E5%2525B9%2525BB%25252C%2525E9%25259C%2525B8%2525E6%252580%2525BB%25252C%2525E7%252594%25259C%2525E5%2525AE%2525A0%25252C%2525E7%25258E%252584%2525E5%2525B9%2525BB%2525E8%252584%252591%2525E6%2525B4%25259E%25252C%2525E5%2525A5%252587%2525E5%2525B9%2525BB%2525E4%2525BB%252599%2525E4%2525BE%2525A0%25252C%2525E5%2525B9%2525BB%2525E6%252583%2525B3%2525E8%2525A8%252580%2525E6%252583%252585%2526cell_gender%253D0%2526cell_id%253D7098235271900037133%2526genre_type%253D0%2526list_type%253Ddaily%2526main_algo_name%253D%2525E6%25258E%2525A8%2525E8%25258D%252590%2525E6%2525A6%25259C%25252C%2525E7%252583%2525AD%2525E6%252592%2525AD%2525E6%2525A6%25259C%25252C%2525E5%2525AE%25258C%2525E6%25259C%2525AC%2525E6%2525A6%25259C%25252C%2525E5%2525B7%252585%2525E5%2525B3%2525B0%2525E6%2525A6%25259C%25252C%2525E5%25258F%2525A3%2525E7%2525A2%252591%2525E6%2525A6%25259C%25252C%2525E9%252598%252585%2525E8%2525AF%2525BB%2525E6%2525A6%25259C%25252C%2525E9%2525AB%252598%2525E5%252588%252586%2525E6%2525A6%25259C%25252C%2525E8%2525BF%2525BD%2525E6%25259B%2525B4%2525E6%2525A6%25259C%25252C%2525E7%252583%2525AD%2525E8%2525AF%252584%2525E6%2525A6%25259C%25252C%2525E9%2525BB%252591%2525E9%2525A9%2525AC%2525E6%2525A6%25259C%25252C%2525E7%252583%2525AD%2525E6%252590%25259C%2525E6%2525A6%25259C%25252C%2525E4%2525BA%2525BA%2525E6%2525B0%252594%2525E6%2525A6%25259C%25252C%2525E7%2525A4%2525BC%2525E7%252589%2525A9%2525E6%2525A6%25259C%25252C%2525E5%252587%2525BA%2525E7%252589%252588%2525E9%2525A3%252599%2525E5%25258D%252587%2525E6%2525A6%25259C%25252C%2525E5%252587%2525BA%2525E7%252589%252588%2525E5%252585%2525B8%2525E8%252597%25258F%2525E6%2525A6%25259C%2526main_algo_type%253D101%25252C201%25252C100%25252C200%25252C104%25252C111%25252C115%25252C109%25252C110%25252C102%25252C103%25252C146%25252C188%25252C197%25252C196%2526monthly_algo_type%253D104%2526selected_book_id%253D7338034838672247833%2526sub_algo_name%253D%2525E6%25258E%2525A8%2525E8%25258D%252590%2525E6%2525A6%25259C%25252C%2525E7%252583%2525AD%2525E6%252592%2525AD%2525E6%2525A6%25259C%25252C%2525E5%2525AE%25258C%2525E6%25259C%2525AC%2525E6%2525A6%25259C%25252C%2525E9%252598%252585%2525E8%2525AF%2525BB%2525E6%2525A6%25259C%25252C%2525E5%25258F%2525A3%2525E7%2525A2%252591%2525E6%2525A6%25259C%25252C%2525E6%252596%2525B0%2525E4%2525B9%2525A6%2525E6%2525A6%25259C%25252C%2525E9%2525AB%252598%2525E5%252588%252586%2525E6%2525A6%25259C%2526sub_algo_type%253D135%25252C201%25252C116%25252C111%25252C104%25252C108%25252C115%2526tab_type%253D2"
+      }
+    ],
+    "readCount": "1781524",
+    "readCountShowStrategy": {
+      "fallbackData": {
+        "readCntFallbackSubText": "在读人数不足",
+        "readCntFallbackText": "潜力好书",
+        "readCntFallbackThreshold": 1000
+      }
+    },
+    "readProgress": "9963",
+    "recentUpdateWordNumber": "4750",
+    "removeType": "0",
+    "role": "程实",
+    "saleStatus": "0",
+    "score": "9.8",
+    "secondChapterItemId": "7338038820413112857",
+    "serialCount": "1153",
+    "showPrice": false,
+    "showVipTag": false,
+    "source": "番茄小说",
+    "status": "1",
+    "tags": "都市高武,都市,末世,无限流,群像",
+    "thumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o456671fab473706eac056e1ae403e5c3~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d45961287\u0026x-expires\u003d1760694947\u0026x-signature\u003dc%2By%2BNyANVvTUwIXsoXbqLDrVTBE%3D",
+    "titlePageTags": [
+      {
+        "picUrl": "https://p3-novel.byteimg.com/obj/novel-static/original_tag.png",
+        "tagType": "Original",
+        "titleTagData": [
+          {
+            "text": "番茄原创"
+          }
+        ],
+        "url": "dragon1967://webview?loadingButHideByFront\u003d1\u0026url\u003dhttps%3a%2f%2freading.snssdk.com%2freading_offline%2fdrweb%2fpage%2fserial-area.html"
+      },
+      {
+        "tagType": "Category",
+        "titleTagData": [
+          {
+            "text": "都市高武"
+          }
+        ],
+        "url": "dragon1967://newCategoryDetail?id\u003d1014\u0026name\u003d都市高武\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+      },
+      {
+        "tagType": "Category",
+        "titleTagData": [
+          {
+            "text": "都市"
+          }
+        ],
+        "url": "dragon1967://newCategoryDetail?id\u003d1\u0026name\u003d都市\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+      },
+      {
+        "tagType": "Category",
+        "titleTagData": [
+          {
+            "text": "末世"
+          }
+        ],
+        "url": "dragon1967://newCategoryDetail?id\u003d68\u0026name\u003d末世\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+      },
+      {
+        "tagType": "Category",
+        "titleTagData": [
+          {
+            "text": "无限流"
+          }
+        ],
+        "url": "dragon1967://newCategoryDetail?id\u003d70\u0026name\u003d无限流\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+      },
+      {
+        "tagType": "Category",
+        "titleTagData": [
+          {
+            "text": "群像"
+          }
+        ],
+        "url": "dragon1967://newCategoryDetail?id\u003d841\u0026name\u003d群像\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+      }
+    ],
+    "tomatoBookStatus": "1",
+    "totalPrice": "0",
+    "ttsStatus": "1",
+    "type": "0",
+    "updateStatus": "1",
+    "wordNumber": "2893700"
+  },
+  "message": "SUCCESS"
+}

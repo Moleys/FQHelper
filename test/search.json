@@ -1,0 +1,3555 @@
+{
+  "code": "SUCCESS",
+  "logId": "20250818175539C8C1289C73337ADC2318",
+  "message": "SUCCESS",
+  "searchTabs": [
+    {
+      "data": [
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "498",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p3-reading-sign.fqnovelpic.com/novel-pic/56d1bc58a72314211198250d80238826~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dLeaqcY7UA1dmy%2F1LgfuKLUy6VmI%3D",
+              "audioThumbUrlHd": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0f568b225aa28321001cc5fb0c260e2b~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dJf4akhS4Iqm3h%2FNw8unxkitWAcQ%3D",
+              "author": "杀虫队队员（主播：猛虎刘、抛耳酱、辰羽、小k、倾夏、朔小踹、猫不易、犸塔塔、朝阳、巴赫、蔡二狗、带轮儿、梦婷、一千、福根摩里曼、清殇）",
+              "authorizeType": "0",
+              "bookAbstract": "【多人超精品有声剧！】【完结撒花～】当我以为这只是寻常的一天时，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）",
+              "bookAbstractV2": "【多人超精品有声剧！】【完结撒花～】当我以为这只是寻常的一天时，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）",
+              "bookCommentCount": 0,
+              "bookId": "7281195245084691518",
+              "bookName": "十日终焉",
+              "bookNameGid": 0,
+              "bookType": "1",
+              "category": "悬疑脑洞",
+              "categorySchema": "[{\"category_id\":539,\"name\":\"悬疑脑洞\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d1\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":10,\"name\":\"悬疑\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d10\u0026name\u003d悬疑\u0026genre_type\u003d1\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":100,\"name\":\"灵异\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d100\u0026name\u003d灵异\u0026genre_type\u003d1\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "539": true,
+                "100": true,
+                "10": true
+              },
+              "chapterNumber": "1385",
+              "coinPrice": 0,
+              "colorDominate": "#281010",
+              "copyrightInfo": "版权信息：本书的数字版权由 番茄畅听工作室 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2023-09-21T17:54:22+08:00",
+              "creationStatus": "0",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/56d1bc58a72314211198250d80238826~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dvf3TIo1pw%2FeA6WCV%2Bz6WWwuP0uo%3D",
+              "disableReaderFeature": 0,
+              "expandThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/56d1bc58a72314211198250d80238826~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dLeaqcY7UA1dmy%2F1LgfuKLUy6VmI%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7295592952154311732",
+              "firstChapterItemId": "7295592952154311732",
+              "firstChapterTitle": "片花（新书《诸神愚戏》）",
+              "firstOnlineTime": "{\"1967\":1698743776,\"507386\":1698743821,\"596084\":1724341682,\"3040\":1698743776,\"507427\":1698743821,\"35\":1698743776,\"510893\":1698743776,\"8661\":1698743776,\"8662\":1742299682,\"8703\":1744708710,\"6589\":1736924301,\"13\":1698743776,\"2329\":1698743776}",
+              "flightUserSelected": "0",
+              "gender": "1",
+              "genre": "4",
+              "genreType": "1",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "0",
+              "indexInBooklist": 0,
+              "isEbook": "0",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "0",
+              "lastChapterGroupId": "7514235758933494846",
+              "lastChapterItemId": "7514235758933494846",
+              "lastChapterTitle": "1384 张丽娟（二十五）（新书《诸神愚戏》）",
+              "lastChapterUpdateTime": "1749580644",
+              "lastPublishTime": "1749592867",
+              "latestReadItemId": "0",
+              "latestReadTime": "0",
+              "lengthType": "0",
+              "listenCount": "1810664",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1713565947517956",
+              "opTag": "531,797,1117,961,502,534,1417,418,967",
+              "originalBookName": "十日终焉",
+              "platform": "1",
+              "platformBookId": "7281168892863712293",
+              "posterId": "0",
+              "pureCategoryTags": "悬疑脑洞,灵异",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "十日终焉",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "105万人在听",
+              "readCntV2": "0",
+              "readCount": "1050141",
+              "readCountAll": "17826049",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0",
+              "readProgress": "0",
+              "recommendGroupId": "7281195245084691518",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "relatedAudioBookids": "[7281195245084691518,7288258020629351481,7294106855935282213]",
+              "relatedBookids": "{\"1967\":{\"0\":[7143038691944959011]},\"507386\":{\"0\":[7143038691944959011]},\"507427\":{\"0\":[7143038691944959011]},\"8662\":{\"0\":[7143038691944959011]},\"3040\":{\"0\":[7143038691944959011]}}",
+              "relatedNovelBookid": "7143038691944959011",
+              "role": "齐夏,林檎",
+              "score": "9.7",
+              "serialCount": "1386",
+              "shelfCntHistory": "63000",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "番茄畅听工作室",
+              "subInfo": "1386章",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "悬疑脑洞,悬疑",
+              "thumbUri": "novel-pic/56d1bc58a72314211198250d80238826",
+              "thumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/56d1bc58a72314211198250d80238826~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dLeaqcY7UA1dmy%2F1LgfuKLUy6VmI%3D",
+              "titlePageTags": [
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑脑洞"
+                    }
+                  ],
+                  "url": "dragon1967://categorySearch?categoryId\u003d539\u0026categoryName\u003d悬疑脑洞\u0026genreType\u003d1\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑"
+                    }
+                  ],
+                  "url": "dragon1967://categorySearch?categoryId\u003d10\u0026categoryName\u003d悬疑\u0026genreType\u003d1\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "灵异"
+                    }
+                  ],
+                  "url": "dragon1967://categorySearch?categoryId\u003d100\u0026categoryName\u003d灵异\u0026genreType\u003d1\u0026gender\u003d1\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "0",
+              "type": "0",
+              "updateStatus": "0",
+              "useSquarePic": "0",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854759423,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":112767}}",
+              "wordNumber": "0"
+            }
+          ],
+          "bookId": "7281195245084691518",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1000,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "听书",
+              "highlight": true,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "“细糠”",
+              "highlight": true,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "已完结",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "181万人收听",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "悬疑脑洞",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:0:0:534323279:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "abstract": {
+              "highLightPosition": [
+                [
+                  13,
+                  2
+                ]
+              ],
+              "richText": "【多人超精品有声剧！】【完结撒花～】当我以为这只是寻常的一天时，却发现自己被捉到了\u003cem\u003e终焉\u003c/em\u003e之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）",
+              "text": "...，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）"
+            },
+            "title": {
+              "highLightPosition": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "richText": "\u003cem\u003e十日终焉\u003c/em\u003e",
+              "text": "十日终焉"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7281195245084691518",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：杀虫队队员（主播：猛虎刘、抛耳酱、辰羽、小k、倾夏、朔小踹、猫不易、犸塔塔、朝阳、巴赫、蔡二狗、带轮儿、梦婷、一千、福根摩里曼、清殇）",
+                "text": "作者：杀虫队队员（主播：猛虎刘、抛耳酱、辰羽、小k、倾夏、朔小踹、猫不易、犸塔塔、朝阳、巴赫、蔡二狗、带轮儿、梦婷、一千、福根摩里曼、清殇）"
+              },
+              {
+                "highLightPosition": [
+                  [
+                    13,
+                    2
+                  ]
+                ],
+                "richText": "【多人超精品有声剧！】【完结撒花～】当我以为这只是寻常的一天时，却发现自己被捉到了\u003cem\u003e终焉\u003c/em\u003e之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）",
+                "text": "...，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        },
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "717342",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-tt-cs0:440:440.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dJk0p18qL1AUQa77%2FHjhj7xSoOV8%3D",
+              "audioThumbUrlHd": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dKBQHnIHXI%2B4ox0rKn6Qw8Fl2TpE%3D",
+              "author": "杀虫队队员",
+              "authorizeType": "1",
+              "bookAbstract": "（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）\n当我以为这只是寻常的一天时，却发现自己被捉到了终焉之地。\n当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。\n当我以为这里是「造神之地」时，一切却又奔着湮灭走去。",
+              "bookAbstractV2": "（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）\n当我以为这只是寻常的一天时，却发现自己被捉到了终焉之地。\n当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。\n当我以为这里是「造神之地」时，一切却又奔着湮灭走去。",
+              "bookCommentCount": 0,
+              "bookId": "7143038691944959011",
+              "bookName": "十日终焉",
+              "bookNameGid": 0,
+              "bookType": "0",
+              "category": "悬疑脑洞",
+              "categorySchema": "[{\"category_id\":539,\"name\":\"悬疑脑洞\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":61,\"name\":\"推理\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d61\u0026name\u003d推理\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":70,\"name\":\"无限流\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d70\u0026name\u003d无限流\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":379,\"name\":\"求生\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d379\u0026name\u003d求生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":515,\"name\":\"末日求生\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d515\u0026name\u003d末日求生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":841,\"name\":\"群像\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d841\u0026name\u003d群像\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "841": true,
+                "539": true,
+                "515": true,
+                "61": true,
+                "70": true,
+                "379": true
+              },
+              "coinPrice": 0,
+              "colorDominate": "#580808",
+              "copyrightInfo": "版权信息：本书的数字版权由 番茄小说 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2022-09-14T09:18:16+08:00",
+              "creationStatus": "0",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/d1a75d07fc21307d13e3a993cacee019~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dVN4rMRte8zd3W4myTThex51pDgI%3D",
+              "disableReaderFeature": 0,
+              "exclusive": "1",
+              "expandThumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/d1a75d07fc21307d13e3a993cacee019~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d%2BNJZgeIbR1OC0yGx3oHY5HHj0v4%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7173216089122439711",
+              "firstChapterItemId": "7173216089122439711",
+              "firstChapterTitle": "第1章 空屋",
+              "firstOnlineTime": "{\"8662\":1663118444,\"2329\":1663118444,\"35\":1663118444,\"510893\":1689659587,\"507386\":1741789248,\"6589\":1677067300,\"1128\":1663118444,\"507427\":1741789248,\"8704\":1747218008,\"3040\":1681192343,\"8703\":1744967406,\"1112\":1693464339,\"8661\":1681192343,\"2503\":1663118444,\"638505\":1724762153,\"596084\":1714101113,\"13\":1663118444,\"1967\":1663118444,\"426946\":1736164446}",
+              "flightUserSelected": "1",
+              "gender": "1",
+              "genre": "0",
+              "genreType": "0",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "1",
+              "indexInBooklist": 0,
+              "isEbook": "1",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "0",
+              "lastChapterGroupId": "7484395381992718873",
+              "lastChapterItemId": "7484395381992718873",
+              "lastChapterTitle": "张丽娟（终）",
+              "lastChapterUpdateTime": "1742596740",
+              "lastPublishTime": "1742634028",
+              "latestReadItemId": "7173216089122439711",
+              "latestReadTime": "1755509957",
+              "lengthType": "0",
+              "listenCount": "607730",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1595739618619399",
+              "opTag": "933,190,502,245,1403,984,873,303,900,1118,962,1416,861,235,218,883,346,536,871,968,1114,418,535,234",
+              "originalAuthorInfos": [
+                {
+                  "authorId": 6914903776998462727,
+                  "authorName": "杀虫队队员"
+                }
+              ],
+              "originalBookName": "十日终焉",
+              "platform": "2",
+              "platformBookId": "",
+              "posterId": "0",
+              "productId": "3722228251079344196",
+              "pureCategoryTags": "悬疑脑洞,群像",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "十日终焉",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "417.7万人在读",
+              "readCntV2": "0",
+              "readCount": "4176499",
+              "readCountAll": "81074379",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0.00009999999747378752",
+              "readProgress": "7",
+              "readingGiftPermission": "1",
+              "recommendGroupId": "7143038691944959011",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "relatedAudioBookids": "[7281195245084691518,7288258020629351481,7294106855935282213]",
+              "relatedComicBookids": "",
+              "role": "齐夏,林檎",
+              "score": "9.9",
+              "serialCount": "1385",
+              "shelfCntHistory": "32942611",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "番茄小说",
+              "subGenre": "1",
+              "subInfo": "417.7万人在读",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "悬疑脑洞,推理",
+              "thumbUri": "novel-pic/d1a75d07fc21307d13e3a993cacee019",
+              "thumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/d1a75d07fc21307d13e3a993cacee019~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003deiYVdOcY2NoBPZ4%2F%2FGzWSSYXA7g%3D",
+              "titlePageTags": [
+                {
+                  "picUrl": "https://p3-novel.byteimg.com/obj/novel-static/original_tag.png",
+                  "tagType": "Original",
+                  "titleTagData": [
+                    {
+                      "text": "番茄原创"
+                    }
+                  ],
+                  "url": "dragon1967://webview?loadingButHideByFront\u003d1\u0026url\u003dhttps%3a%2f%2freading.snssdk.com%2freading_offline%2fdrweb%2fpage%2fserial-area.html"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑脑洞"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "推理"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d61\u0026name\u003d推理\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "无限流"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d70\u0026name\u003d无限流\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "求生"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d379\u0026name\u003d求生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "末日求生"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d515\u0026name\u003d末日求生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "群像"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d841\u0026name\u003d群像\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "1",
+              "type": "0",
+              "updateStatus": "0",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854775807,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":129151}}",
+              "wordNumber": "2964243"
+            }
+          ],
+          "bookId": "7143038691944959011",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1001,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "番茄爆书",
+              "highlight": true,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "已完结",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "296.4万字",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "417万人在读",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "悬疑脑洞",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:1:0:3954093722:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "title": {
+              "highLightPosition": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "richText": "\u003cem\u003e十日终焉\u003c/em\u003e",
+              "text": "十日终焉"
+            },
+            "abstract": {
+              "highLightPosition": [
+                [
+                  22,
+                  2
+                ]
+              ],
+              "richText": "（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）\n当我以为这只是寻常的一天时，却发现自己被捉到了\u003cem\u003e终焉\u003c/em\u003e之地。\n当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。\n当我以为这里是「造神之地」时，一切却又奔着湮灭走去。",
+              "text": "【这，不是人间？】...，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7143038691944959011",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：杀虫队队员",
+                "text": "作者：杀虫队队员"
+              },
+              {
+                "highLightPosition": [
+                  [
+                    22,
+                    2
+                  ]
+                ],
+                "richText": "（不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。）\n当我以为这只是寻常的一天时，却发现自己被捉到了\u003cem\u003e终焉\u003c/em\u003e之地。\n当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。\n当我以为这里是「造神之地」时，一切却又奔着湮灭走去。",
+                "text": "【这，不是人间？】...，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        },
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "0",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2oa22a2414c2d9d0e095738e808489b903~tplv-tt-cs0:440:440.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d8hbSWACqaDwK7A0796ERezLo3BU%3D",
+              "audioThumbUrlHd": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa22a2414c2d9d0e095738e808489b903~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dfALuweHvbAigxStMgxDCIOMI2jY%3D",
+              "author": "一丝深深的远矢利磨",
+              "authorizeType": "0",
+              "bookAbstract": "海洋观测站的一场异常波动，撕开了现实世界与深渊维度的裂缝。地质学家林秋白在血色黄昏中目睹浅海变异，随之而来的诡异生物、被腐蚀的空间，以及神秘组织的追杀，将他卷入颠覆认知的末日漩涡。当发现观测站地下隐藏着以人类为容器的恐怖实验，当深渊生物开始吞噬世界，他与助手苏晚在逃亡中逐渐觉醒特殊力量。\n与此同时，军方清除小队带来惊人真相——三年前深海探测器带回的并非矿石，而是深渊生物的胚胎。随着倒计时启动，林秋白手持能与深渊共鸣的神秘晶体，踏上寻找三十年前\"星渊计划\"资料的征程。在被黑色雾气笼罩的城镇、变异生物横行的荒野中，他必须在十天内破解深渊秘密，否则整个世界将彻底沦为永夜。而深渊核心处，不仅有失踪的苏晚，更藏着足以颠覆人类文明的终极抉择。",
+              "bookAbstractV2": "海洋观测站的一场异常波动，撕开了现实世界与深渊维度的裂缝。地质学家林秋白在血色黄昏中目睹浅海变异，随之而来的诡异生物、被腐蚀的空间，以及神秘组织的追杀，将他卷入颠覆认知的末日漩涡。当发现观测站地下隐藏着以人类为容器的恐怖实验，当深渊生物开始吞噬世界，他与助手苏晚在逃亡中逐渐觉醒特殊力量。\n与此同时，军方清除小队带来惊人真相——三年前深海探测器带回的并非矿石，而是深渊生物的胚胎。随着倒计时启动，林秋白手持能与深渊共鸣的神秘晶体，踏上寻找三十年前\"星渊计划\"资料的征程。在被黑色雾气笼罩的城镇、变异生物横行的荒野中，他必须在十天内破解深渊秘密，否则整个世界将彻底沦为永夜。而深渊核心处，不仅有失踪的苏晚，更藏着足以颠覆人类文明的终极抉择。",
+              "bookCommentCount": 0,
+              "bookId": "7498962711825353752",
+              "bookName": "十日终焉林秋白",
+              "bookNameGid": 0,
+              "bookType": "0",
+              "category": "悬疑灵异",
+              "categorySchema": "[{\"category_id\":751,\"name\":\"悬疑灵异\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d751\u0026name\u003d悬疑灵异\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "751": true
+              },
+              "coinPrice": 0,
+              "colorDominate": "#e0e0e0",
+              "copyrightInfo": "版权信息：本书的数字版权由 一丝深深的远矢利磨 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2025-04-30T12:45:14+08:00",
+              "creationStatus": "4",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa22a2414c2d9d0e095738e808489b903~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dQEstznXbA3g8Kt6%2FGm6Kng7xolo%3D",
+              "disableReaderFeature": 0,
+              "expandThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa22a2414c2d9d0e095738e808489b903~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003delBwykhTsky6WisS4CQAqLT%2B3AM%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7498962733354713624",
+              "firstChapterItemId": "7498962733354713624",
+              "firstChapterTitle": "第1章 血色黄昏",
+              "firstOnlineTime": "{\"510893\":1745988438,\"8662\":1745988438,\"13\":1745988438,\"8704\":1747357203,\"1967\":1745988438,\"2329\":1745988438,\"507427\":1745988483,\"35\":1745988438,\"8703\":1745988438,\"507386\":1745988483,\"1128\":1745988438,\"2503\":1745988438}",
+              "flightUserSelected": "0",
+              "gender": "1",
+              "genre": "0",
+              "genreType": "0",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "0",
+              "indexInBooklist": 0,
+              "isEbook": "1",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "0",
+              "lastChapterGroupId": "7498964028488696344",
+              "lastChapterItemId": "7498964028488696344",
+              "lastChapterTitle": "第4章 永夜前奏3",
+              "lastChapterUpdateTime": "1745988641",
+              "lastPublishTime": "1745988707",
+              "latestReadItemId": "0",
+              "latestReadTime": "0",
+              "lengthType": "0",
+              "listenCount": "0",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1830800529483786",
+              "originalAuthorInfos": [
+                {
+                  "authorId": 7498959839591142680,
+                  "authorName": "一丝深深的远矢利磨"
+                }
+              ],
+              "originalBookName": "十日终焉林秋白",
+              "platform": "2",
+              "platformBookId": "",
+              "posterId": "0",
+              "pureCategoryTags": "悬疑灵异",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "十日终焉林秋白",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "潜力好书",
+              "readCntV2": "0",
+              "readCount": "6",
+              "readCountAll": "32",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0",
+              "readProgress": "0",
+              "recommendGroupId": "7498962711825353752",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "role": "林秋白",
+              "score": "0",
+              "serialCount": "4",
+              "shelfCntHistory": "1038",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "一丝深深的远矢利磨",
+              "subInfo": "潜力好书",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "悬疑灵异",
+              "thumbUri": "novel-pic/p2oa22a2414c2d9d0e095738e808489b903",
+              "thumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa22a2414c2d9d0e095738e808489b903~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003delBwykhTsky6WisS4CQAqLT%2B3AM%3D",
+              "titlePageTags": [
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑灵异"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d751\u0026name\u003d悬疑灵异\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "1",
+              "type": "0",
+              "updateStatus": "0",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854751231,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":100454}}",
+              "wordNumber": "9935"
+            }
+          ],
+          "bookId": "7498962711825353752",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1002,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "断更",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "9935字",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "6人在读",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "悬疑灵异",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:2:0:4036563541:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "title": {
+              "highLightPosition": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "richText": "\u003cem\u003e十日终焉\u003c/em\u003e林秋白",
+              "text": "十日终焉林秋白"
+            },
+            "abstract": {
+              "highLightPosition": [],
+              "richText": "海洋观测站的一场异常波动，撕开了现实世界与深渊维度的裂缝。地质学家林秋白在血色黄昏中目睹浅海变异，随之而来的诡异生物、被腐蚀的空间，以及神秘组织的追杀，将他卷入颠覆认知的末\u003cem\u003e日\u003c/em\u003e漩涡。当发现观测站地下隐藏着以人类为容器的恐怖实验，当深渊生物开始吞噬世界，他与助手苏晚在逃亡中逐渐觉醒特殊力量。\n与此同时，军方清除小队带来惊人真相——三年前深海探测器带回的并非矿石，而是深渊生物的胚胎。随着倒计时启动，林秋白手持能与深渊共鸣的神秘晶体，踏上寻找三\u003cem\u003e十\u003c/em\u003e年前\"星渊计划\"资料的征程。在被黑色雾气笼罩的城镇、变异生物横行的荒野中，他必须在\u003cem\u003e十\u003c/em\u003e天内破解深渊秘密，否则整个世界将彻底沦为永夜。而深渊核心处，不仅有失踪的苏晚，更藏着足以颠覆人类文明的\u003cem\u003e终\u003c/em\u003e极抉择。",
+              "text": "海洋观测站的一场异常波动，撕开了现实世界与深渊维度的裂缝。地质学家林秋白在血色黄昏中目睹浅海变异，随之而来的诡异生物、被腐蚀的空间，以及神秘组织的追杀，将他卷入颠覆认知的末日漩涡。当发现观测站地下隐藏着以人类为容器的恐怖实验，当深渊生物开始吞噬世界，他与助手苏晚在逃亡中逐渐觉醒特殊力量。 与此同时，军方清除小队带来惊人真相——三年前深海探测器带回的并非矿石，而是深渊生物的胚胎。随着倒计时启动，林秋白手持能与深渊共鸣的神秘晶体，踏上寻找三十年前\"星渊计划\"资料的征程。在被黑色雾气笼罩的城镇、变异生物横行的荒野中，他必须在十天内破解深渊秘密，否则整个世界将彻底沦为永夜。而深渊核心处，不仅有失踪的苏晚，更藏着足以颠覆人类文明的终极抉择。"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7498962711825353752",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：一丝深深的远矢利磨",
+                "text": "作者：一丝深深的远矢利磨"
+              },
+              {
+                "highLightPosition": [],
+                "richText": "海洋观测站的一场异常波动，撕开了现实世界与深渊维度的裂缝。地质学家林秋白在血色黄昏中目睹浅海变异，随之而来的诡异生物、被腐蚀的空间，以及神秘组织的追杀，将他卷入颠覆认知的末\u003cem\u003e日\u003c/em\u003e漩涡。当发现观测站地下隐藏着以人类为容器的恐怖实验，当深渊生物开始吞噬世界，他与助手苏晚在逃亡中逐渐觉醒特殊力量。\n与此同时，军方清除小队带来惊人真相——三年前深海探测器带回的并非矿石，而是深渊生物的胚胎。随着倒计时启动，林秋白手持能与深渊共鸣的神秘晶体，踏上寻找三\u003cem\u003e十\u003c/em\u003e年前\"星渊计划\"资料的征程。在被黑色雾气笼罩的城镇、变异生物横行的荒野中，他必须在\u003cem\u003e十\u003c/em\u003e天内破解深渊秘密，否则整个世界将彻底沦为永夜。而深渊核心处，不仅有失踪的苏晚，更藏着足以颠覆人类文明的\u003cem\u003e终\u003c/em\u003e极抉择。",
+                "text": "海洋观测站的一场异常波动，撕开了现实世界与深渊维度的裂缝。地质学家林秋白在血色黄昏中目睹浅海变异，随之而来的诡异生物、被腐蚀的空间，以及神秘组织的追杀，将他卷入颠覆认知的末日漩涡。当发现观测站地下隐藏着以人类为容器的恐怖实验，当深渊生物开始吞噬世界，他与助手苏晚在逃亡中逐渐觉醒特殊力量。 与此同时，军方清除小队带来惊人真相——三年前深海探测器带回的并非矿石，而是深渊生物的胚胎。随着倒计时启动，林秋白手持能与深渊共鸣的神秘晶体，踏上寻找三十年前\"星渊计划\"资料的征程。在被黑色雾气笼罩的城镇、变异生物横行的荒野中，他必须在十天内破解深渊秘密，否则整个世界将彻底沦为永夜。而深渊核心处，不仅有失踪的苏晚，更藏着足以颠覆人类文明的终极抉择。"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        },
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "0",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o1af6a926336563bbce310103ddb6d1a1~tplv-tt-cs0:440:440.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dHkKAjkhqffFwpoVZtEAAc3PdvsQ%3D",
+              "audioThumbUrlHd": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1af6a926336563bbce310103ddb6d1a1~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dArd0ZqSw3yhfTwGNLPE9fozyHos%3D",
+              "author": "绿羽毛",
+              "authorizeType": "0",
+              "bookAbstract": "【十日衍生+不不无脑+有系统】\n林岩以翻垃圾桶为生，这天他美美地看完了十日的结局。\n睡着后睁开眼，却发现自己来到了空屋，绑定捡垃圾系统，但这里的“垃圾”有些不一样。\n「检测到垃圾: 肖冉 价值250块」\n「检测到垃圾: 鱼叉*n 每个价值10块」\n......\n「检测到渺小的龙*1 价值...」\n林岩将“垃圾”尽数收入囊中，在终焉之地亲自“二刷”十日。\n他在捡垃圾系统里换了舒画喜欢的零食，换了小姜十的无痛，换了他想换的一切。\n......\n林岩看着眼前熟悉的温馨小屋，他的父母不再忙碌，他也不用再去捡垃圾。\n这是齐夏打造的现实。\n“或许这是最好的结局。”\n林岩默念着，再次入睡。",
+              "bookAbstractV2": "【十日衍生+不不无脑+有系统】\n林岩以翻垃圾桶为生，这天他美美地看完了十日的结局。\n睡着后睁开眼，却发现自己来到了空屋，绑定捡垃圾系统，但这里的“垃圾”有些不一样。\n「检测到垃圾: 肖冉 价值250块」\n「检测到垃圾: 鱼叉*n 每个价值10块」\n......\n「检测到渺小的龙*1 价值...」\n林岩将“垃圾”尽数收入囊中，在终焉之地亲自“二刷”十日。\n他在捡垃圾系统里换了舒画喜欢的零食，换了小姜十的无痛，换了他想换的一切。\n......\n林岩看着眼前熟悉的温馨小屋，他的父母不再忙碌，他也不用再去捡垃圾。\n这是齐夏打造的现实。\n“或许这是最好的结局。”\n林岩默念着，再次入睡。",
+              "bookCommentCount": 0,
+              "bookId": "7414811403329997848",
+              "bookName": "十日：我在终焉之地捡垃圾",
+              "bookNameGid": 0,
+              "bookType": "0",
+              "category": "男频衍生",
+              "categorySchema": "[{\"category_id\":1016,\"name\":\"男频衍生\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d1016\u0026name\u003d男频衍生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":19,\"name\":\"系统\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d19\u0026name\u003d系统\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":391,\"name\":\"无女主\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d391\u0026name\u003d无女主\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":1060,\"name\":\"十日衍生\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d1060\u0026name\u003d十日衍生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "1016": true,
+                "1060": true,
+                "19": true,
+                "391": true
+              },
+              "coinPrice": 0,
+              "colorDominate": "#303840",
+              "copyrightInfo": "版权信息：本书的数字版权由 绿羽毛 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2024-09-15T18:15:11+08:00",
+              "creationStatus": "4",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1af6a926336563bbce310103ddb6d1a1~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d4jhfoITPT4P31UzZQQNg1hY1xz4%3D",
+              "disableReaderFeature": 0,
+              "expandThumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o1af6a926336563bbce310103ddb6d1a1~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dU6yt400oYiRQRLXb5C2kdJQ2VSU%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7439897408244285977",
+              "firstChapterItemId": "7439897408244285977",
+              "firstChapterTitle": "第1章 摊牌",
+              "firstOnlineTime": "{\"2329\":1732236376,\"35\":1732236376,\"13\":1732236376,\"8704\":1747862732,\"507386\":1745416480,\"1128\":1732236376,\"8703\":1745416480,\"2503\":1732236376,\"8662\":1732236376,\"1967\":1732236376,\"507427\":1745416480,\"510893\":1732236376}",
+              "flightUserSelected": "0",
+              "gender": "1",
+              "genre": "0",
+              "genreType": "0",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "0",
+              "indexInBooklist": 0,
+              "isEbook": "1",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "0",
+              "lastChapterGroupId": "7441826722015625753",
+              "lastChapterItemId": "7441826722015625753",
+              "lastChapterTitle": "第9章 最好的结局",
+              "lastChapterUpdateTime": "1732685456",
+              "lastPublishTime": "1732685464",
+              "latestReadItemId": "0",
+              "latestReadTime": "0",
+              "lengthType": "0",
+              "listenCount": "1",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1710351681361923",
+              "originalAuthorInfos": [
+                {
+                  "authorId": 7414811403925607704,
+                  "authorName": "绿羽毛"
+                }
+              ],
+              "originalBookName": "十日：我在终焉之地捡垃圾",
+              "platform": "2",
+              "platformBookId": "",
+              "posterId": "0",
+              "pureCategoryTags": "男频衍生,十日衍生",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "十日：我在终焉之地捡垃圾",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "潜力好书",
+              "readCntV2": "0",
+              "readCount": "18",
+              "readCountAll": "739",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0",
+              "readProgress": "0",
+              "recommendGroupId": "7414811403329997848",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "role": "林岩",
+              "score": "0",
+              "serialCount": "9",
+              "shelfCntHistory": "980",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "绿羽毛",
+              "subInfo": "潜力好书",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "男频衍生,系统",
+              "thumbUri": "novel-pic/p2o1af6a926336563bbce310103ddb6d1a1",
+              "thumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1af6a926336563bbce310103ddb6d1a1~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dGYy1xH6psmV4vKXswzF7I%2F%2BRMvc%3D",
+              "titlePageTags": [
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "男频衍生"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d1016\u0026name\u003d男频衍生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "系统"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d19\u0026name\u003d系统\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "无女主"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d391\u0026name\u003d无女主\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "十日衍生"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d1060\u0026name\u003d十日衍生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "1",
+              "type": "0",
+              "updateStatus": "0",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854751231,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":100454}}",
+              "wordNumber": "20709"
+            }
+          ],
+          "bookId": "7414811403329997848",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1003,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "断更",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "2.1万字",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "18人在读",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "男频衍生",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:3:0:3040643328:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "title": {
+              "highLightPosition": [
+                [
+                  0,
+                  2
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "richText": "\u003cem\u003e十日\u003c/em\u003e：我在\u003cem\u003e终焉\u003c/em\u003e之地捡垃圾",
+              "text": "十日：我在终焉之地捡垃圾"
+            },
+            "abstract": {
+              "highLightPosition": [
+                [
+                  1,
+                  2
+                ],
+                [
+                  35,
+                  2
+                ],
+                [
+                  164,
+                  2
+                ],
+                [
+                  174,
+                  2
+                ]
+              ],
+              "richText": "【\u003cem\u003e十日\u003c/em\u003e衍生+不不无脑+有系统】\n林岩以翻垃圾桶为生，这天他美美地看完了\u003cem\u003e十日\u003c/em\u003e的结局。\n睡着后睁开眼，却发现自己来到了空屋，绑定捡垃圾系统，但这里的“垃圾”有些不一样。\n「检测到垃圾: 肖冉 价值250块」\n「检测到垃圾: 鱼叉*n 每个价值10块」\n......\n「检测到渺小的龙*1 价值...」\n林岩将“垃圾”尽数收入囊中，在\u003cem\u003e终焉\u003c/em\u003e之地亲自“二刷”\u003cem\u003e十日\u003c/em\u003e。\n他在捡垃圾系统里换了舒画喜欢的零食，换了小姜\u003cem\u003e十\u003c/em\u003e的无痛，换了他想换的一切。\n......\n林岩看着眼前熟悉的温馨小屋，他的父母不再忙碌，他也不用再去捡垃圾。\n这是齐夏打造的现实。\n“或许这是最好的结局。”\n林岩默念着，再次入睡。",
+              "text": "【十日衍生+不不无脑+有系统】 林岩以翻垃圾桶为生，这天他美美地看完了十日的结局。 睡着后睁开眼，却发现自己来到了空屋，绑定捡垃圾系统，但这里的“垃圾”有些不一样。 「检测到垃圾: 肖冉 价值250块」 「检测到垃圾: 鱼叉*n 每个价值10块」 ...... 「检测到渺小的龙*1 价值...」 林岩将“垃圾”尽数收入囊中，在终焉之地亲自“二刷”十日。 他在捡垃圾系统里换了舒画喜欢的零食，换了小姜十的无痛，换了他想换的一切。 ...... 林岩看着眼前熟悉的温馨小屋，他的父母不再忙碌，他也不用再去捡垃圾。 这是齐夏打造的现实。 “或许这是最好的结局。” 林岩默念着，再次入睡。"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7414811403329997848",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：绿羽毛",
+                "text": "作者：绿羽毛"
+              },
+              {
+                "highLightPosition": [
+                  [
+                    1,
+                    2
+                  ],
+                  [
+                    35,
+                    2
+                  ],
+                  [
+                    164,
+                    2
+                  ],
+                  [
+                    174,
+                    2
+                  ]
+                ],
+                "richText": "【\u003cem\u003e十日\u003c/em\u003e衍生+不不无脑+有系统】\n林岩以翻垃圾桶为生，这天他美美地看完了\u003cem\u003e十日\u003c/em\u003e的结局。\n睡着后睁开眼，却发现自己来到了空屋，绑定捡垃圾系统，但这里的“垃圾”有些不一样。\n「检测到垃圾: 肖冉 价值250块」\n「检测到垃圾: 鱼叉*n 每个价值10块」\n......\n「检测到渺小的龙*1 价值...」\n林岩将“垃圾”尽数收入囊中，在\u003cem\u003e终焉\u003c/em\u003e之地亲自“二刷”\u003cem\u003e十日\u003c/em\u003e。\n他在捡垃圾系统里换了舒画喜欢的零食，换了小姜\u003cem\u003e十\u003c/em\u003e的无痛，换了他想换的一切。\n......\n林岩看着眼前熟悉的温馨小屋，他的父母不再忙碌，他也不用再去捡垃圾。\n这是齐夏打造的现实。\n“或许这是最好的结局。”\n林岩默念着，再次入睡。",
+                "text": "【十日衍生+不不无脑+有系统】 林岩以翻垃圾桶为生，这天他美美地看完了十日的结局。 睡着后睁开眼，却发现自己来到了空屋，绑定捡垃圾系统，但这里的“垃圾”有些不一样。 「检测到垃圾: 肖冉 价值250块」 「检测到垃圾: 鱼叉*n 每个价值10块」 ...... 「检测到渺小的龙*1 价值...」 林岩将“垃圾”尽数收入囊中，在终焉之地亲自“二刷”十日。 他在捡垃圾系统里换了舒画喜欢的零食，换了小姜十的无痛，换了他想换的一切。 ...... 林岩看着眼前熟悉的温馨小屋，他的父母不再忙碌，他也不用再去捡垃圾。 这是齐夏打造的现实。 “或许这是最好的结局。” 林岩默念着，再次入睡。"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        },
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "145",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o857ea55c64fd3fa63a390c82cb3b10ee~tplv-tt-cs0:440:440.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d76BTCPU1VjWdb06dLukzc5FIdqA%3D",
+              "audioThumbUrlHd": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o857ea55c64fd3fa63a390c82cb3b10ee~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d2%2BaUOQYKiXlphSLedjg1qMqCpPc%3D",
+              "author": "御剑青狼",
+              "authorizeType": "1",
+              "bookAbstract": "【原创生肖游戏】+【逻辑推理】+【杀伐果断】\n主角余冬通过一个个有趣又惊险的生肖游戏，探索终焉之地的奥秘。\n采用【无限流】+【连环套】+【金手指】形式，\n中间简洁穿插人物关系和剧情背景。\n借用原著《十日终焉》的元素，但不会拘泥于原著。",
+              "bookAbstractV2": "【原创生肖游戏】+【逻辑推理】+【杀伐果断】\n主角余冬通过一个个有趣又惊险的生肖游戏，探索终焉之地的奥秘。\n采用【无限流】+【连环套】+【金手指】形式，\n中间简洁穿插人物关系和剧情背景。\n借用原著《十日终焉》的元素，但不会拘泥于原著。",
+              "bookCommentCount": 0,
+              "bookId": "7411859034250169406",
+              "bookName": "我在十日终焉当戏神",
+              "bookNameGid": 0,
+              "bookType": "0",
+              "category": "悬疑脑洞",
+              "categorySchema": "[{\"category_id\":539,\"name\":\"悬疑脑洞\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":10,\"name\":\"悬疑\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d10\u0026name\u003d悬疑\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":61,\"name\":\"推理\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d61\u0026name\u003d推理\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":70,\"name\":\"无限流\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d70\u0026name\u003d无限流\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":537,\"name\":\"惊悚游戏\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d537\u0026name\u003d惊悚游戏\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":538,\"name\":\"同人\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d538\u0026name\u003d同人\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":1060,\"name\":\"十日衍生\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d1060\u0026name\u003d十日衍生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "539": true,
+                "1060": true,
+                "10": true,
+                "538": true,
+                "61": true,
+                "70": true,
+                "537": true
+              },
+              "coinPrice": 0,
+              "colorDominate": "#181818",
+              "copyrightInfo": "版权信息：本书的数字版权由 番茄小说 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2024-09-07T19:18:29+08:00",
+              "creationStatus": "0",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o857ea55c64fd3fa63a390c82cb3b10ee~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dXHEVyZdJM6qe98Oojz2QJDZOf7Q%3D",
+              "disableReaderFeature": 0,
+              "exclusive": "1",
+              "expandThumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o857ea55c64fd3fa63a390c82cb3b10ee~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dZqH8aoHyi0%2FhXFa6R1K%2BSu3MueU%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7411859037198746174",
+              "firstChapterItemId": "7411859037198746174",
+              "firstChapterTitle": "第1章 天龙的游戏",
+              "firstOnlineTime": "{\"3040\":1726229029,\"2503\":1725708091,\"596084\":1726229029,\"1128\":1725708091,\"8703\":1744964936,\"8704\":1747725963,\"8661\":1726229029,\"507386\":1744590985,\"426946\":1736165060,\"510893\":1725708091,\"1967\":1725708091,\"6589\":1726229029,\"13\":1725708091,\"638505\":1726229029,\"507427\":1744590985,\"8662\":1725708091,\"35\":1725708091,\"2329\":1725708091}",
+              "flightUserSelected": "0",
+              "gender": "1",
+              "genre": "0",
+              "genreType": "0",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "0",
+              "indexInBooklist": 0,
+              "isEbook": "1",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "0",
+              "lastChapterGroupId": "7441254805684634137",
+              "lastChapterItemId": "7441254805684634137",
+              "lastChapterTitle": "第235章 团聚（终局）",
+              "lastChapterUpdateTime": "1732552186",
+              "lastPublishTime": "1732552197",
+              "latestReadItemId": "0",
+              "latestReadTime": "0",
+              "lengthType": "1",
+              "listenCount": "75",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1587753159916557",
+              "opTag": "305,535,536,1014",
+              "originalAuthorInfos": [
+                {
+                  "authorId": 7349943871230448958,
+                  "authorName": "御剑青狼"
+                }
+              ],
+              "originalBookName": "我在十日终焉当戏神",
+              "platform": "2",
+              "platformBookId": "",
+              "posterId": "0",
+              "pureCategoryTags": "悬疑脑洞,十日衍生",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "我在十日终焉当戏神",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "1219人在读",
+              "readCntV2": "0",
+              "readCount": "1219",
+              "readCountAll": "51489",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0",
+              "readProgress": "0",
+              "readingGiftPermission": "1",
+              "recommendGroupId": "7411859034250169406",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "role": "余冬",
+              "score": "0",
+              "serialCount": "235",
+              "shelfCntHistory": "5890",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "番茄小说",
+              "subInfo": "1219人在读",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "悬疑脑洞,悬疑",
+              "thumbUri": "novel-pic/p2o857ea55c64fd3fa63a390c82cb3b10ee",
+              "thumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o857ea55c64fd3fa63a390c82cb3b10ee~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dgRSfpZZAtvXHEq7yS8tZ3B5AJZE%3D",
+              "titlePageTags": [
+                {
+                  "picUrl": "https://p3-novel.byteimg.com/obj/novel-static/original_tag.png",
+                  "tagType": "Original",
+                  "titleTagData": [
+                    {
+                      "text": "番茄原创"
+                    }
+                  ],
+                  "url": "dragon1967://webview?loadingButHideByFront\u003d1\u0026url\u003dhttps%3a%2f%2freading.snssdk.com%2freading_offline%2fdrweb%2fpage%2fserial-area.html"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑脑洞"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d10\u0026name\u003d悬疑\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "推理"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d61\u0026name\u003d推理\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "无限流"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d70\u0026name\u003d无限流\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "惊悚游戏"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d537\u0026name\u003d惊悚游戏\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "同人"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d538\u0026name\u003d同人\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "十日衍生"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d1060\u0026name\u003d十日衍生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "1",
+              "type": "0",
+              "updateStatus": "0",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854751231,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":104575}}",
+              "wordNumber": "256273"
+            }
+          ],
+          "bookId": "7411859034250169406",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1004,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "已完结",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "25.6万字",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "1219人在读",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "悬疑脑洞",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:4:0:3855483340:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "title": {
+              "highLightPosition": [
+                [
+                  2,
+                  4
+                ]
+              ],
+              "richText": "我在\u003cem\u003e十日终焉\u003c/em\u003e当戏神",
+              "text": "我在十日终焉当戏神"
+            },
+            "abstract": {
+              "highLightPosition": [
+                [
+                  33,
+                  4
+                ]
+              ],
+              "richText": "【原创生肖游戏】+【逻辑推理】+【杀伐果断】\n主角余冬通过一个个有趣又惊险的生肖游戏，探索\u003cem\u003e终焉\u003c/em\u003e之地的奥秘。\n采用【无限流】+【连环套】+【金手指】形式，\n中间简洁穿插人物关系和剧情背景。\n借用原著《\u003cem\u003e十日终焉\u003c/em\u003e》的元素，但不会拘泥于原著。",
+              "text": "...金手指】形式， 中间简洁穿插人物关系和剧情背景。 借用原著《十日终焉》的元素，但不会拘泥于原著。"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7411859034250169406",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：御剑青狼",
+                "text": "作者：御剑青狼"
+              },
+              {
+                "highLightPosition": [
+                  [
+                    33,
+                    4
+                  ]
+                ],
+                "richText": "【原创生肖游戏】+【逻辑推理】+【杀伐果断】\n主角余冬通过一个个有趣又惊险的生肖游戏，探索\u003cem\u003e终焉\u003c/em\u003e之地的奥秘。\n采用【无限流】+【连环套】+【金手指】形式，\n中间简洁穿插人物关系和剧情背景。\n借用原著《\u003cem\u003e十日终焉\u003c/em\u003e》的元素，但不会拘泥于原著。",
+                "text": "...金手指】形式， 中间简洁穿插人物关系和剧情背景。 借用原著《十日终焉》的元素，但不会拘泥于原著。"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        },
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "0",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o842d67f07fd44bc1463fa222e2ac0322~tplv-tt-cs0:440:440.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dWlxmBiUOjH%2F4mxu4Xqxa3YzxPOs%3D",
+              "audioThumbUrlHd": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o842d67f07fd44bc1463fa222e2ac0322~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dnxwV6Y8erHixkGipE8aEcwPo5To%3D",
+              "author": "铁胃艺术家",
+              "authorizeType": "1",
+              "bookAbstract": "在2025年的现代都市，一个名为\"终焉十日\"的神秘现象突然降临全球。所有18-35岁的人类都被强制卷入一个名为\"终焉之地\"的异空间，参与一场由十二生肖神兽掌控的死亡游戏。游戏以十日为一个循环周期，参与者在每轮循环中不断死亡重生，唯有觉醒\"回响\"异能的人才能保留记忆 。这个世界被规则所统治，每个场景都有特定的生存法则，违反规则即会被彻底抹杀 。\n这个异空间由十二个生肖关卡构成，每个关卡都代表着一种动物属性的规则体系。当玩家通过全部十二生肖关卡后，将面对最终的\"终焉之兽\"，挑战整个规则世界的核心 。然而，随着游戏的深入，玩家们发现这不仅仅是一场简单的生存游戏，而是关乎人类文明存续的终极考验 。",
+              "bookAbstractV2": "在2025年的现代都市，一个名为\"终焉十日\"的神秘现象突然降临全球。所有18-35岁的人类都被强制卷入一个名为\"终焉之地\"的异空间，参与一场由十二生肖神兽掌控的死亡游戏。游戏以十日为一个循环周期，参与者在每轮循环中不断死亡重生，唯有觉醒\"回响\"异能的人才能保留记忆 。这个世界被规则所统治，每个场景都有特定的生存法则，违反规则即会被彻底抹杀 。\n这个异空间由十二个生肖关卡构成，每个关卡都代表着一种动物属性的规则体系。当玩家通过全部十二生肖关卡后，将面对最终的\"终焉之兽\"，挑战整个规则世界的核心 。然而，随着游戏的深入，玩家们发现这不仅仅是一场简单的生存游戏，而是关乎人类文明存续的终极考验 。",
+              "bookCommentCount": 0,
+              "bookId": "7536533398580366360",
+              "bookName": "规则怪谈：终焉十日",
+              "bookNameGid": 0,
+              "bookType": "0",
+              "category": "悬疑脑洞",
+              "categorySchema": "[{\"category_id\":539,\"name\":\"悬疑脑洞\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":37,\"name\":\"穿越\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d37\u0026name\u003d穿越\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":10,\"name\":\"悬疑\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d10\u0026name\u003d悬疑\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":864,\"name\":\"副本\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d864\u0026name\u003d副本\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":851,\"name\":\"规则怪谈\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d851\u0026name\u003d规则怪谈\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":537,\"name\":\"惊悚游戏\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d537\u0026name\u003d惊悚游戏\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "539": true,
+                "10": true,
+                "864": true,
+                "537": true,
+                "37": true,
+                "851": true
+              },
+              "coinPrice": 0,
+              "colorDominate": "#484848",
+              "copyrightInfo": "版权信息：本书的数字版权由 番茄小说 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2025-08-09T18:38:42+08:00",
+              "creationStatus": "1",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o842d67f07fd44bc1463fa222e2ac0322~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dbwChF0%2FRrKJRjEds9Ymjlw7rwX8%3D",
+              "disableReaderFeature": 0,
+              "exclusive": "1",
+              "expandThumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o842d67f07fd44bc1463fa222e2ac0322~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dvAbKFwgS6BVGiJjz0w4Xa%2BQjQVI%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7536533441525842456",
+              "firstChapterItemId": "7536533441525842456",
+              "firstChapterTitle": "第1章 鼠之迷宫·血色规则",
+              "firstOnlineTime": "{\"8703\":1754741987,\"3040\":1754804549,\"596084\":1754804549,\"8661\":1754804549,\"510893\":1754741987,\"1967\":1754741987,\"1128\":1754741987,\"507386\":1754742033,\"6589\":1754804549,\"2329\":1754741987,\"507427\":1754742033,\"8704\":1754741987,\"638505\":1754804549,\"13\":1754741987,\"8662\":1754741987,\"2503\":1754741987,\"35\":1754741987}",
+              "flightUserSelected": "0",
+              "gender": "1",
+              "genre": "0",
+              "genreType": "0",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "0",
+              "indexInBooklist": 0,
+              "isEbook": "1",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "10",
+              "lastChapterGroupId": "7539857733424529944",
+              "lastChapterItemId": "7539857733424529944",
+              "lastChapterTitle": "第60章 残糕的痕·旧信的温",
+              "lastChapterUpdateTime": "1755509947",
+              "lastPublishTime": "1755509959",
+              "latestReadItemId": "0",
+              "latestReadTime": "0",
+              "lengthType": "0",
+              "listenCount": "67",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1839354250862603",
+              "opTag": "535,536",
+              "originalAuthorInfos": [
+                {
+                  "authorId": 7534018936564618520,
+                  "authorName": "铁胃艺术家"
+                }
+              ],
+              "originalBookName": "规则怪谈：终焉十日",
+              "platform": "2",
+              "platformBookId": "",
+              "posterId": "0",
+              "pureCategoryTags": "悬疑脑洞,惊悚游戏",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "规则怪谈：终焉十日",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "潜力好书",
+              "readCntV2": "0",
+              "readCount": "507",
+              "readCountAll": "507",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0",
+              "readProgress": "0",
+              "readingGiftPermission": "1",
+              "recommendGroupId": "7536533398580366360",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "role": "林默",
+              "score": "0",
+              "serialCount": "59",
+              "shelfCntHistory": "963",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "番茄小说",
+              "subInfo": "潜力好书",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "悬疑脑洞,穿越",
+              "thumbUri": "novel-pic/p2o842d67f07fd44bc1463fa222e2ac0322",
+              "thumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o842d67f07fd44bc1463fa222e2ac0322~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dvAbKFwgS6BVGiJjz0w4Xa%2BQjQVI%3D",
+              "titlePageTags": [
+                {
+                  "picUrl": "https://p3-novel.byteimg.com/obj/novel-static/original_tag.png",
+                  "tagType": "Original",
+                  "titleTagData": [
+                    {
+                      "text": "番茄原创"
+                    }
+                  ],
+                  "url": "dragon1967://webview?loadingButHideByFront\u003d1\u0026url\u003dhttps%3a%2f%2freading.snssdk.com%2freading_offline%2fdrweb%2fpage%2fserial-area.html"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑脑洞"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "穿越"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d37\u0026name\u003d穿越\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d10\u0026name\u003d悬疑\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "副本"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d864\u0026name\u003d副本\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "规则怪谈"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d851\u0026name\u003d规则怪谈\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "惊悚游戏"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d537\u0026name\u003d惊悚游戏\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "1",
+              "type": "0",
+              "updateStatus": "1",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854751231,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":104575}}",
+              "wordNumber": "163360"
+            }
+          ],
+          "bookId": "7536533398580366360",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1005,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "连载中",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "16.3万字",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "507人在读",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "悬疑脑洞",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:5:0:4140420938:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "abstract": {
+              "highLightPosition": [
+                [
+                  13,
+                  4
+                ],
+                [
+                  52,
+                  2
+                ],
+                [
+                  84,
+                  2
+                ],
+                [
+                  227,
+                  2
+                ]
+              ],
+              "richText": "在2025年的现代都市，一个名为\"\u003cem\u003e终焉十日\u003c/em\u003e\"的神秘现象突然降临全球。所有18-35岁的人类都被强制卷入一个名为\"\u003cem\u003e终焉\u003c/em\u003e之地\"的异空间，参与一场由\u003cem\u003e十\u003c/em\u003e二生肖神兽掌控的死亡游戏。游戏以\u003cem\u003e十日\u003c/em\u003e为一个循环周期，参与者在每轮循环中不断死亡重生，唯有觉醒\"回响\"异能的人才能保留记忆 。这个世界被规则所统治，每个场景都有特定的生存法则，违反规则即会被彻底抹杀 。\n这个异空间由\u003cem\u003e十\u003c/em\u003e二个生肖关卡构成，每个关卡都代表着一种动物属性的规则体系。当玩家通过全部\u003cem\u003e十\u003c/em\u003e二生肖关卡后，将面对最\u003cem\u003e终\u003c/em\u003e的\"\u003cem\u003e终焉\u003c/em\u003e之兽\"，挑战整个规则世界的核心 。然而，随着游戏的深入，玩家们发现这不仅仅是一场简单的生存游戏，而是关乎人类文明存续的\u003cem\u003e终\u003c/em\u003e极考验 。",
+              "text": "...现代都市，一个名为\"终焉十日\"的神秘现象突然降临全球。所有18-35岁的人类都被强制卷入一个名为\"终焉之地\"的异空间，参与一场由十二生肖神兽掌控的死亡游戏。游戏以十日为一个循环周期，参与者在每轮循环中不断死亡重生，唯有觉醒\"回响\"异能的人才能保留记忆 。这个世界被规则所统治，每个场景都有特定的生存法则，违反规则即会被彻底抹杀 。 这个异空间由十二个生肖关卡构成，每个关卡都代表着一种动物属性的规则体系。当玩家通过全部十二生肖关卡后，将面对最终的\"终焉之兽\"，挑战整个规则世界的核心 。然而，随着游戏的深入，玩家们发现这不仅仅是一场简单的生存游戏，而是关乎人类文明存续的终极考验 。"
+            },
+            "title": {
+              "highLightPosition": [
+                [
+                  5,
+                  4
+                ]
+              ],
+              "richText": "规则怪谈：\u003cem\u003e终焉十日\u003c/em\u003e",
+              "text": "规则怪谈：终焉十日"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7536533398580366360",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：铁胃艺术家",
+                "text": "作者：铁胃艺术家"
+              },
+              {
+                "highLightPosition": [
+                  [
+                    13,
+                    4
+                  ],
+                  [
+                    52,
+                    2
+                  ],
+                  [
+                    84,
+                    2
+                  ],
+                  [
+                    227,
+                    2
+                  ]
+                ],
+                "richText": "在2025年的现代都市，一个名为\"\u003cem\u003e终焉十日\u003c/em\u003e\"的神秘现象突然降临全球。所有18-35岁的人类都被强制卷入一个名为\"\u003cem\u003e终焉\u003c/em\u003e之地\"的异空间，参与一场由\u003cem\u003e十\u003c/em\u003e二生肖神兽掌控的死亡游戏。游戏以\u003cem\u003e十日\u003c/em\u003e为一个循环周期，参与者在每轮循环中不断死亡重生，唯有觉醒\"回响\"异能的人才能保留记忆 。这个世界被规则所统治，每个场景都有特定的生存法则，违反规则即会被彻底抹杀 。\n这个异空间由\u003cem\u003e十\u003c/em\u003e二个生肖关卡构成，每个关卡都代表着一种动物属性的规则体系。当玩家通过全部\u003cem\u003e十\u003c/em\u003e二生肖关卡后，将面对最\u003cem\u003e终\u003c/em\u003e的\"\u003cem\u003e终焉\u003c/em\u003e之兽\"，挑战整个规则世界的核心 。然而，随着游戏的深入，玩家们发现这不仅仅是一场简单的生存游戏，而是关乎人类文明存续的\u003cem\u003e终\u003c/em\u003e极考验 。",
+                "text": "...现代都市，一个名为\"终焉十日\"的神秘现象突然降临全球。所有18-35岁的人类都被强制卷入一个名为\"终焉之地\"的异空间，参与一场由十二生肖神兽掌控的死亡游戏。游戏以十日为一个循环周期，参与者在每轮循环中不断死亡重生，唯有觉醒\"回响\"异能的人才能保留记忆 。这个世界被规则所统治，每个场景都有特定的生存法则，违反规则即会被彻底抹杀 。 这个异空间由十二个生肖关卡构成，每个关卡都代表着一种动物属性的规则体系。当玩家通过全部十二生肖关卡后，将面对最终的\"终焉之兽\"，挑战整个规则世界的核心 。然而，随着游戏的深入，玩家们发现这不仅仅是一场简单的生存游戏，而是关乎人类文明存续的终极考验 。"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        },
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "0",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o71ae86626855b637877488124923e87c~tplv-tt-cs0:440:440.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dyoJWGvq%2B01IDOqul6QuP0qWuN18%3D",
+              "audioThumbUrlHd": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71ae86626855b637877488124923e87c~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d7B4CRMPcgCZ75q9v3xb1t9dmqVI%3D",
+              "author": "爱吃薄荷蛋饼",
+              "authorizeType": "0",
+              "bookAbstract": "当第十宇宙的胚胎在原初之茧中脉动，观测者的命运早已刻在量子泡沫之上。齐松在九岁那年收到哥哥齐夏的遗物——一枚凝结着终焉病毒源代码的克莱因瓶，自此成为游走于时空褶皱的活体锚点。\n在血月凌空的福利院地下室，他与携带第零纪元记忆的林柚共同觉醒；在弦月观测站的粒子对撞机前，他与天才物理学家沈星回捕获到平行世界的求救讯号；在时空管理局的追猎中，他与宿敌苏离发现所有宇宙都在重复同一种文明死局。\n而真相远比末日残酷：所谓\"十日终焉\"，不过是宇宙胚胎的呼吸频率。每隔十纪元的文明筛选，只为孕育那个能挣脱茧房的观测者。当齐松见证儿子在第六宇宙被改造成战争机器，目睹孙子降生时瞳孔中浮现的创世代码，他终于明白齐夏当年踏入的不是终焉之地，而是孕育第十宇宙的子宫。\n\"我们不是要拯救世界\"暮年的齐松在弦月交汇处扣动扳机，子弹同时贯穿九个平行宇宙的茧房，\"而是要成为新世界诞生的阵痛。\"\n此刻，血月表面的弦理论公式开始重组，林柚的手术刀切开时空胎膜，沈星回的锚定器刺穿量子泡沫，苏离的狙击弹道画完最后一个莫比乌斯环。\n—你此刻的每一次呼吸，都是某个宇宙的终焉倒计时。",
+              "bookAbstractV2": "当第十宇宙的胚胎在原初之茧中脉动，观测者的命运早已刻在量子泡沫之上。齐松在九岁那年收到哥哥齐夏的遗物——一枚凝结着终焉病毒源代码的克莱因瓶，自此成为游走于时空褶皱的活体锚点。\n在血月凌空的福利院地下室，他与携带第零纪元记忆的林柚共同觉醒；在弦月观测站的粒子对撞机前，他与天才物理学家沈星回捕获到平行世界的求救讯号；在时空管理局的追猎中，他与宿敌苏离发现所有宇宙都在重复同一种文明死局。\n而真相远比末日残酷：所谓\"十日终焉\"，不过是宇宙胚胎的呼吸频率。每隔十纪元的文明筛选，只为孕育那个能挣脱茧房的观测者。当齐松见证儿子在第六宇宙被改造成战争机器，目睹孙子降生时瞳孔中浮现的创世代码，他终于明白齐夏当年踏入的不是终焉之地，而是孕育第十宇宙的子宫。\n\"我们不是要拯救世界\"暮年的齐松在弦月交汇处扣动扳机，子弹同时贯穿九个平行宇宙的茧房，\"而是要成为新世界诞生的阵痛。\"\n此刻，血月表面的弦理论公式开始重组，林柚的手术刀切开时空胎膜，沈星回的锚定器刺穿量子泡沫，苏离的狙击弹道画完最后一个莫比乌斯环。\n—你此刻的每一次呼吸，都是某个宇宙的终焉倒计时。",
+              "bookCommentCount": 0,
+              "bookId": "7473856790044609561",
+              "bookName": "十日终焉：茧中人",
+              "bookNameGid": 0,
+              "bookType": "0",
+              "category": "悬疑脑洞",
+              "categorySchema": "[{\"category_id\":539,\"name\":\"悬疑脑洞\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d2\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "539": true
+              },
+              "coinPrice": 0,
+              "colorDominate": "#e8e8e8",
+              "copyrightInfo": "版权信息：本书的数字版权由 爱吃薄荷蛋饼 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2025-02-21T21:01:27+08:00",
+              "creationStatus": "4",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o71ae86626855b637877488124923e87c~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d9zy%2FUMEyPdR4IHOxq2QjzgXvAKo%3D",
+              "disableReaderFeature": 0,
+              "expandThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71ae86626855b637877488124923e87c~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dF6gxDZ8W1GKwxwhQpTI5VrJan7I%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7473856884819100185",
+              "firstChapterItemId": "7473856884819100185",
+              "firstChapterTitle": "第1章 茧房血月",
+              "firstOnlineTime": "{\"2503\":1740143355,\"35\":1740143355,\"1128\":1740143355,\"507386\":1742065499,\"507427\":1742065499,\"13\":1740143355,\"8703\":1745438281,\"8662\":1740143355,\"2329\":1740143355,\"510893\":1740143355,\"1967\":1740143355,\"8704\":1747865440}",
+              "flightUserSelected": "0",
+              "gender": "2",
+              "genre": "0",
+              "genreType": "0",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "0",
+              "indexInBooklist": 0,
+              "isEbook": "1",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "0",
+              "lastChapterGroupId": "7474540339580125758",
+              "lastChapterItemId": "7474540339580125758",
+              "lastChapterTitle": "第10章 终焉初啼",
+              "lastChapterUpdateTime": "1740302370",
+              "lastPublishTime": "1740302378",
+              "latestReadItemId": "0",
+              "latestReadTime": "0",
+              "lengthType": "0",
+              "listenCount": "1",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1741660705398791",
+              "originalAuthorInfos": [
+                {
+                  "authorId": 7138279033137009934,
+                  "authorName": "爱吃薄荷蛋饼"
+                }
+              ],
+              "originalBookName": "十日终焉：茧中人",
+              "platform": "2",
+              "platformBookId": "",
+              "posterId": "0",
+              "pureCategoryTags": "悬疑脑洞",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "十日终焉：茧中人",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "潜力好书",
+              "readCntV2": "0",
+              "readCount": "3",
+              "readCountAll": "74",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0",
+              "readProgress": "0",
+              "recommendGroupId": "7473856790044609561",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "role": "齐松",
+              "score": "0",
+              "serialCount": "10",
+              "shelfCntHistory": "1012",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "爱吃薄荷蛋饼",
+              "subInfo": "潜力好书",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "悬疑脑洞",
+              "thumbUri": "novel-pic/p2o71ae86626855b637877488124923e87c",
+              "thumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71ae86626855b637877488124923e87c~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dF6gxDZ8W1GKwxwhQpTI5VrJan7I%3D",
+              "titlePageTags": [
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑脑洞"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d2\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "1",
+              "type": "0",
+              "updateStatus": "0",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854751231,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":100454}}",
+              "wordNumber": "23694"
+            }
+          ],
+          "bookId": "7473856790044609561",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1006,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "断更",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "2.4万字",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "3人在读",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "悬疑脑洞",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:6:0:2006540064:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "abstract": {
+              "highLightPosition": [
+                [
+                  13,
+                  4
+                ],
+                [
+                  112,
+                  2
+                ],
+                [
+                  273,
+                  2
+                ]
+              ],
+              "richText": "当第\u003cem\u003e十\u003c/em\u003e宇宙的胚胎在原初之茧中脉动，观测者的命运早已刻在量子泡沫之上。齐松在九岁那年收到哥哥齐夏的遗物——一枚凝结着\u003cem\u003e终焉\u003c/em\u003e病毒源代码的克莱因瓶，自此成为游走于时空褶皱的活体锚点。\n在血月凌空的福利院地下室，他与携带第零纪元记忆的林柚共同觉醒；在弦月观测站的粒子对撞机前，他与天才物理学家沈星回捕获到平行世界的求救讯号；在时空管理局的追猎中，他与宿敌苏离发现所有宇宙都在重复同一种文明死局。\n而真相远比末\u003cem\u003e日\u003c/em\u003e残酷：所谓\"\u003cem\u003e十日终焉\u003c/em\u003e\"，不过是宇宙胚胎的呼吸频率。每隔\u003cem\u003e十\u003c/em\u003e纪元的文明筛选，只为孕育那个能挣脱茧房的观测者。当齐松见证儿子在第六宇宙被改造成战争机器，目睹孙子降生时瞳孔中浮现的创世代码，他\u003cem\u003e终\u003c/em\u003e于明白齐夏当年踏入的不是\u003cem\u003e终焉\u003c/em\u003e之地，而是孕育第\u003cem\u003e十\u003c/em\u003e宇宙的子宫。\n\"我们不是要拯救世界\"暮年的齐松在弦月交汇处扣动扳机，子弹同时贯穿九个平行宇宙的茧房，\"而是要成为新世界诞生的阵痛。\"\n此刻，血月表面的弦理论公式开始重组，林柚的手术刀切开时空胎膜，沈星回的锚定器刺穿量子泡沫，苏离的狙击弹道画完最后一个莫比乌斯环。\n—你此刻的每一次呼吸，都是某个宇宙的\u003cem\u003e终焉\u003c/em\u003e倒计时。",
+              "text": "...远比末日残酷：所谓\"十日终焉\"，不过是宇宙胚胎的呼吸频率。每隔十纪元的文明筛选，只为孕育那个能挣脱茧房的观测者。当齐松见证儿子在第六宇宙被改造成战争机器，目睹孙子降生时瞳孔中浮现的创世代码，他终于明白齐夏当年踏入的不是终焉之地，而是孕育第十宇宙的子宫。 \"我们不是要拯救世界\"暮年的齐松在弦月交汇处扣动扳机，子弹同时贯穿九个平行宇宙的茧房，\"而是要成为新世界诞生的阵痛。\" 此刻，血月表面的弦理论公式开始重组，林柚的手术刀切开时空胎膜，沈星回的锚定器刺穿量子泡沫，苏离的狙击弹道画完最后一个莫比乌斯环。 —你此刻的每一次呼吸，都是某个宇宙的终焉倒计时。"
+            },
+            "title": {
+              "highLightPosition": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "richText": "\u003cem\u003e十日终焉\u003c/em\u003e：茧中人",
+              "text": "十日终焉：茧中人"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7473856790044609561",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：爱吃薄荷蛋饼",
+                "text": "作者：爱吃薄荷蛋饼"
+              },
+              {
+                "highLightPosition": [
+                  [
+                    13,
+                    4
+                  ],
+                  [
+                    112,
+                    2
+                  ],
+                  [
+                    273,
+                    2
+                  ]
+                ],
+                "richText": "当第\u003cem\u003e十\u003c/em\u003e宇宙的胚胎在原初之茧中脉动，观测者的命运早已刻在量子泡沫之上。齐松在九岁那年收到哥哥齐夏的遗物——一枚凝结着\u003cem\u003e终焉\u003c/em\u003e病毒源代码的克莱因瓶，自此成为游走于时空褶皱的活体锚点。\n在血月凌空的福利院地下室，他与携带第零纪元记忆的林柚共同觉醒；在弦月观测站的粒子对撞机前，他与天才物理学家沈星回捕获到平行世界的求救讯号；在时空管理局的追猎中，他与宿敌苏离发现所有宇宙都在重复同一种文明死局。\n而真相远比末\u003cem\u003e日\u003c/em\u003e残酷：所谓\"\u003cem\u003e十日终焉\u003c/em\u003e\"，不过是宇宙胚胎的呼吸频率。每隔\u003cem\u003e十\u003c/em\u003e纪元的文明筛选，只为孕育那个能挣脱茧房的观测者。当齐松见证儿子在第六宇宙被改造成战争机器，目睹孙子降生时瞳孔中浮现的创世代码，他\u003cem\u003e终\u003c/em\u003e于明白齐夏当年踏入的不是\u003cem\u003e终焉\u003c/em\u003e之地，而是孕育第\u003cem\u003e十\u003c/em\u003e宇宙的子宫。\n\"我们不是要拯救世界\"暮年的齐松在弦月交汇处扣动扳机，子弹同时贯穿九个平行宇宙的茧房，\"而是要成为新世界诞生的阵痛。\"\n此刻，血月表面的弦理论公式开始重组，林柚的手术刀切开时空胎膜，沈星回的锚定器刺穿量子泡沫，苏离的狙击弹道画完最后一个莫比乌斯环。\n—你此刻的每一次呼吸，都是某个宇宙的\u003cem\u003e终焉\u003c/em\u003e倒计时。",
+                "text": "...远比末日残酷：所谓\"十日终焉\"，不过是宇宙胚胎的呼吸频率。每隔十纪元的文明筛选，只为孕育那个能挣脱茧房的观测者。当齐松见证儿子在第六宇宙被改造成战争机器，目睹孙子降生时瞳孔中浮现的创世代码，他终于明白齐夏当年踏入的不是终焉之地，而是孕育第十宇宙的子宫。 \"我们不是要拯救世界\"暮年的齐松在弦月交汇处扣动扳机，子弹同时贯穿九个平行宇宙的茧房，\"而是要成为新世界诞生的阵痛。\" 此刻，血月表面的弦理论公式开始重组，林柚的手术刀切开时空胎膜，沈星回的锚定器刺穿量子泡沫，苏离的狙击弹道画完最后一个莫比乌斯环。 —你此刻的每一次呼吸，都是某个宇宙的终焉倒计时。"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        },
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "0",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o16790e734857d4076b6f034581f8f9e8~tplv-tt-cs0:440:440.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dKsASBLSx2%2F%2BCx7OVMcHnpSLLoFM%3D",
+              "audioThumbUrlHd": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o16790e734857d4076b6f034581f8f9e8~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dCpobUVh2KBxysF3zDyX4RXXi%2Btw%3D",
+              "author": "巨大面筋",
+              "authorizeType": "1",
+              "bookAbstract": "在战胜青龙和天龙后，众人踏入了一个看似熟悉却充满神秘的现代世界。有繁华都市的喧嚣，也有宁静乡村的质朴。起初，他们沉浸在新奇与欢乐中，然而，平静之下却暗藏危机。神秘组织的出现打破了这份和谐，一场激烈的正邪对抗就此展开。\n在齐夏的带领下，众人凭借各自独特的回响能力，在城市的街巷和乡村的田野与敌人展开殊死搏斗。他们在战斗中成长，在困境中团结。随着探索的深入，古老遗迹中的秘密被逐渐揭开，关于这个世界的真相令人震惊。\n面对重重挑战和艰难抉择，他们勇敢前行，肩负起守护新世界的使命。在血与火的考验中，他们能否战胜强大的敌人，守护住这来之不易的和平与幸福？在这个现代与神秘交织的世界里，他们的命运又将走向何方？",
+              "bookAbstractV2": "在战胜青龙和天龙后，众人踏入了一个看似熟悉却充满神秘的现代世界。有繁华都市的喧嚣，也有宁静乡村的质朴。起初，他们沉浸在新奇与欢乐中，然而，平静之下却暗藏危机。神秘组织的出现打破了这份和谐，一场激烈的正邪对抗就此展开。\n在齐夏的带领下，众人凭借各自独特的回响能力，在城市的街巷和乡村的田野与敌人展开殊死搏斗。他们在战斗中成长，在困境中团结。随着探索的深入，古老遗迹中的秘密被逐渐揭开，关于这个世界的真相令人震惊。\n面对重重挑战和艰难抉择，他们勇敢前行，肩负起守护新世界的使命。在血与火的考验中，他们能否战胜强大的敌人，守护住这来之不易的和平与幸福？在这个现代与神秘交织的世界里，他们的命运又将走向何方？",
+              "bookCommentCount": 0,
+              "bookId": "7468916364212718654",
+              "bookName": "【十日终焉之新世界】",
+              "bookNameGid": 0,
+              "bookType": "0",
+              "category": "都市高武",
+              "categorySchema": "[{\"category_id\":1014,\"name\":\"都市高武\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d1014\u0026name\u003d都市高武\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":1,\"name\":\"都市\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d1\u0026name\u003d都市\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":516,\"name\":\"都市异能\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d516\u0026name\u003d都市异能\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":538,\"name\":\"同人\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d538\u0026name\u003d同人\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":1060,\"name\":\"十日衍生\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d1060\u0026name\u003d十日衍生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "1060": true,
+                "1": true,
+                "516": true,
+                "538": true,
+                "1014": true
+              },
+              "coinPrice": 0,
+              "colorDominate": "#183048",
+              "copyrightInfo": "版权信息：本书的数字版权由 番茄小说 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2025-02-08T13:30:04+08:00",
+              "creationStatus": "0",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16790e734857d4076b6f034581f8f9e8~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dtCFmavklA2p97JXTkUDq4%2BBDZWI%3D",
+              "disableReaderFeature": 0,
+              "exclusive": "1",
+              "expandThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16790e734857d4076b6f034581f8f9e8~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d8MhrBTkoKUpG6Se9fqFRfQaoiQ8%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7468918398903124542",
+              "firstChapterItemId": "7468918398903124542",
+              "firstChapterTitle": "第1章 新的开始",
+              "firstOnlineTime": "{\"6589\":1739008243,\"8662\":1738993160,\"1128\":1738993160,\"2329\":1738993160,\"35\":1738993160,\"2503\":1738993160,\"8661\":1739008243,\"8704\":1747727532,\"1967\":1738993160,\"638505\":1739008243,\"8703\":1744881544,\"507386\":1742011373,\"3040\":1739008243,\"596084\":1739008243,\"507427\":1742011373,\"510893\":1738993160,\"13\":1738993160}",
+              "flightUserSelected": "0",
+              "gender": "1",
+              "genre": "0",
+              "genreType": "0",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "0",
+              "indexInBooklist": 0,
+              "isEbook": "1",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "0",
+              "lastChapterGroupId": "7482409159862780478",
+              "lastChapterItemId": "7482409159862780478",
+              "lastChapterTitle": "第100章 辉煌终章",
+              "lastChapterUpdateTime": "1742134210",
+              "lastPublishTime": "1742134219",
+              "latestReadItemId": "0",
+              "latestReadTime": "0",
+              "lengthType": "1",
+              "listenCount": "31",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1802473223143428",
+              "opTag": "535,536,1029",
+              "originalAuthorInfos": [
+                {
+                  "authorId": 7382930994753459480,
+                  "authorName": "巨大面筋"
+                }
+              ],
+              "originalBookName": "【十日终焉之新世界】",
+              "platform": "2",
+              "platformBookId": "",
+              "posterId": "0",
+              "pureCategoryTags": "都市高武,十日衍生",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "【十日终焉之新世界】",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "潜力好书",
+              "readCntV2": "0",
+              "readCount": "258",
+              "readCountAll": "7759",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0",
+              "readProgress": "0",
+              "readingGiftPermission": "1",
+              "recommendGroupId": "7468916364212718654",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "role": "齐夏",
+              "score": "0",
+              "serialCount": "100",
+              "shelfCntHistory": "1050",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "番茄小说",
+              "subInfo": "潜力好书",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "都市高武,都市",
+              "thumbUri": "novel-pic/p2o16790e734857d4076b6f034581f8f9e8",
+              "thumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16790e734857d4076b6f034581f8f9e8~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d8MhrBTkoKUpG6Se9fqFRfQaoiQ8%3D",
+              "titlePageTags": [
+                {
+                  "picUrl": "https://p3-novel.byteimg.com/obj/novel-static/original_tag.png",
+                  "tagType": "Original",
+                  "titleTagData": [
+                    {
+                      "text": "番茄原创"
+                    }
+                  ],
+                  "url": "dragon1967://webview?loadingButHideByFront\u003d1\u0026url\u003dhttps%3a%2f%2freading.snssdk.com%2freading_offline%2fdrweb%2fpage%2fserial-area.html"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "都市高武"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d1014\u0026name\u003d都市高武\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "都市"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d1\u0026name\u003d都市\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "都市异能"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d516\u0026name\u003d都市异能\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "同人"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d538\u0026name\u003d同人\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "十日衍生"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d1060\u0026name\u003d十日衍生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "1",
+              "type": "0",
+              "updateStatus": "0",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854751231,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":104575}}",
+              "wordNumber": "185446"
+            }
+          ],
+          "bookId": "7468916364212718654",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1007,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "已完结",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "18.5万字",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "258人在读",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "都市高武",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:7:0:531168824:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "title": {
+              "highLightPosition": [
+                [
+                  1,
+                  4
+                ]
+              ],
+              "richText": "【\u003cem\u003e十日终焉\u003c/em\u003e之新世界】",
+              "text": "【十日终焉之新世界】"
+            },
+            "abstract": {
+              "highLightPosition": [],
+              "richText": "在战胜青龙和天龙后，众人踏入了一个看似熟悉却充满神秘的现代世界。有繁华都市的喧嚣，也有宁静乡村的质朴。起初，他们沉浸在新奇与欢乐中，然而，平静之下却暗藏危机。神秘组织的出现打破了这份和谐，一场激烈的正邪对抗就此展开。\n在齐夏的带领下，众人凭借各自独特的回响能力，在城市的街巷和乡村的田野与敌人展开殊死搏斗。他们在战斗中成长，在困境中团结。随着探索的深入，古老遗迹中的秘密被逐渐揭开，关于这个世界的真相令人震惊。\n面对重重挑战和艰难抉择，他们勇敢前行，肩负起守护新世界的使命。在血与火的考验中，他们能否战胜强大的敌人，守护住这来之不易的和平与幸福？在这个现代与神秘交织的世界里，他们的命运又将走向何方？",
+              "text": "在战胜青龙和天龙后，众人踏入了一个看似熟悉却充满神秘的现代世界。有繁华都市的喧嚣，也有宁静乡村的质朴。起初，他们沉浸在新奇与欢乐中，然而，平静之下却暗藏危机。神秘组织的出现打破了这份和谐，一场激烈的正邪对抗就此展开。 在齐夏的带领下，众人凭借各自独特的回响能力，在城市的街巷和乡村的田野与敌人展开殊死搏斗。他们在战斗中成长，在困境中团结。随着探索的深入，古老遗迹中的秘密被逐渐揭开，关于这个世界的真相令人震惊。 面对重重挑战和艰难抉择，他们勇敢前行，肩负起守护新世界的使命。在血与火的考验中，他们能否战胜强大的敌人，守护住这来之不易的和平与幸福？在这个现代与神秘交织的世界里，他们的命运又将走向何方？"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7468916364212718654",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：巨大面筋",
+                "text": "作者：巨大面筋"
+              },
+              {
+                "highLightPosition": [],
+                "richText": "在战胜青龙和天龙后，众人踏入了一个看似熟悉却充满神秘的现代世界。有繁华都市的喧嚣，也有宁静乡村的质朴。起初，他们沉浸在新奇与欢乐中，然而，平静之下却暗藏危机。神秘组织的出现打破了这份和谐，一场激烈的正邪对抗就此展开。\n在齐夏的带领下，众人凭借各自独特的回响能力，在城市的街巷和乡村的田野与敌人展开殊死搏斗。他们在战斗中成长，在困境中团结。随着探索的深入，古老遗迹中的秘密被逐渐揭开，关于这个世界的真相令人震惊。\n面对重重挑战和艰难抉择，他们勇敢前行，肩负起守护新世界的使命。在血与火的考验中，他们能否战胜强大的敌人，守护住这来之不易的和平与幸福？在这个现代与神秘交织的世界里，他们的命运又将走向何方？",
+                "text": "在战胜青龙和天龙后，众人踏入了一个看似熟悉却充满神秘的现代世界。有繁华都市的喧嚣，也有宁静乡村的质朴。起初，他们沉浸在新奇与欢乐中，然而，平静之下却暗藏危机。神秘组织的出现打破了这份和谐，一场激烈的正邪对抗就此展开。 在齐夏的带领下，众人凭借各自独特的回响能力，在城市的街巷和乡村的田野与敌人展开殊死搏斗。他们在战斗中成长，在困境中团结。随着探索的深入，古老遗迹中的秘密被逐渐揭开，关于这个世界的真相令人震惊。 面对重重挑战和艰难抉择，他们勇敢前行，肩负起守护新世界的使命。在血与火的考验中，他们能否战胜强大的敌人，守护住这来之不易的和平与幸福？在这个现代与神秘交织的世界里，他们的命运又将走向何方？"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        },
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "0",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o2abcb8ae070c43480219f4f7d8e00b6d~tplv-tt-cs0:440:440.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003d%2FRNN3Aa3XQw6qaHxMzxTJ964LNs%3D",
+              "audioThumbUrlHd": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o2abcb8ae070c43480219f4f7d8e00b6d~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003deuk1C9%2BzR6GXBY27xMGLcjcfwTs%3D",
+              "author": "殿原",
+              "authorizeType": "1",
+              "bookAbstract": "十名身份成谜的男女于血肉筑成的诡异迷宫中苏醒，颈后烙印着冰冷的倒计时：10。\n他们面对的，是每日轮换的致命灾难层级：扭曲空间的“人面走廊”、侵蚀心智的“认知污染”、吞噬生命的“活体森林”... \n失忆的设计师陈默、觉醒人性的观察员AI苏凉、挣扎求存的克隆体K-7，在血肉迷宫中艰难求生。陈默手背浮现的银纹、K-7珍藏的奥特曼断臂、苏凉撕裂的薄茧，成为对抗Ω系统——这座迷宫冰冷造物主的关键。\n他们必须在十日内破解迷宫的终极秘密：陈默被抹除的记忆、Ω筛选文明的残酷标准、以及双生苏凉纠缠的命运。\n倒计时归零之日，是文明湮灭的终焉，亦是人性之火能否燎原的最后审判。\n时间，是他们最残忍的狱卒。",
+              "bookAbstractV2": "十名身份成谜的男女于血肉筑成的诡异迷宫中苏醒，颈后烙印着冰冷的倒计时：10。\n他们面对的，是每日轮换的致命灾难层级：扭曲空间的“人面走廊”、侵蚀心智的“认知污染”、吞噬生命的“活体森林”... \n失忆的设计师陈默、觉醒人性的观察员AI苏凉、挣扎求存的克隆体K-7，在血肉迷宫中艰难求生。陈默手背浮现的银纹、K-7珍藏的奥特曼断臂、苏凉撕裂的薄茧，成为对抗Ω系统——这座迷宫冰冷造物主的关键。\n他们必须在十日内破解迷宫的终极秘密：陈默被抹除的记忆、Ω筛选文明的残酷标准、以及双生苏凉纠缠的命运。\n倒计时归零之日，是文明湮灭的终焉，亦是人性之火能否燎原的最后审判。\n时间，是他们最残忍的狱卒。",
+              "bookCommentCount": 0,
+              "bookId": "7529080035135720472",
+              "bookName": "血肉迷宫：十日终焉",
+              "bookNameGid": 0,
+              "bookType": "0",
+              "category": "悬疑脑洞",
+              "categorySchema": "[{\"category_id\":539,\"name\":\"悬疑脑洞\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":10,\"name\":\"悬疑\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d10\u0026name\u003d悬疑\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":515,\"name\":\"末日求生\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d515\u0026name\u003d末日求生\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":864,\"name\":\"副本\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d864\u0026name\u003d副本\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "539": true,
+                "10": true,
+                "515": true,
+                "864": true
+              },
+              "coinPrice": 0,
+              "colorDominate": "#082018",
+              "copyrightInfo": "版权信息：本书的数字版权由 番茄小说 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2025-07-20T16:35:50+08:00",
+              "creationStatus": "4",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2abcb8ae070c43480219f4f7d8e00b6d~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003drNiyMHMNt2A8Xov4IFI5DOOotzY%3D",
+              "disableReaderFeature": 0,
+              "exclusive": "1",
+              "expandThumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o2abcb8ae070c43480219f4f7d8e00b6d~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dmVFTpMBwHvsEaGDzV%2BuQC79fwzo%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7529080041225863704",
+              "firstChapterItemId": "7529080041225863704",
+              "firstChapterTitle": "第1章 血肉初啼",
+              "firstOnlineTime": "{\"638505\":1753012326,\"3040\":1753012326,\"8661\":1753012326,\"2503\":1753001046,\"8662\":1753001046,\"2329\":1753001046,\"596084\":1753012326,\"35\":1753001046,\"8703\":1753001046,\"1967\":1753001046,\"13\":1753001046,\"510893\":1753001046,\"8704\":1753001046,\"6589\":1753012326,\"507427\":1753001106,\"507386\":1753001106,\"1128\":1753001046}",
+              "flightUserSelected": "0",
+              "gender": "1",
+              "genre": "0",
+              "genreType": "0",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "0",
+              "indexInBooklist": 0,
+              "isEbook": "1",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "0",
+              "lastChapterGroupId": "7530577397310030360",
+              "lastChapterItemId": "7530577397310030360",
+              "lastChapterTitle": "第28章 血藤狂舞与冰晶之誓",
+              "lastChapterUpdateTime": "1753349321",
+              "lastPublishTime": "1753349331",
+              "latestReadItemId": "0",
+              "latestReadTime": "0",
+              "lengthType": "0",
+              "listenCount": "1",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1726423376977923",
+              "opTag": "535,536",
+              "originalAuthorInfos": [
+                {
+                  "authorId": 7529066955056108824,
+                  "authorName": "殿原"
+                }
+              ],
+              "originalBookName": "血肉迷宫：十日终焉",
+              "platform": "2",
+              "platformBookId": "",
+              "posterId": "0",
+              "pureCategoryTags": "悬疑脑洞,副本",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "血肉迷宫：十日终焉",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "潜力好书",
+              "readCntV2": "0",
+              "readCount": "3",
+              "readCountAll": "130",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0",
+              "readProgress": "0",
+              "readingGiftPermission": "1",
+              "recommendGroupId": "7529080035135720472",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "role": "陈默,苏凉",
+              "score": "0",
+              "serialCount": "28",
+              "shelfCntHistory": "1037",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "番茄小说",
+              "subInfo": "潜力好书",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "悬疑脑洞,悬疑",
+              "thumbUri": "novel-pic/p2o2abcb8ae070c43480219f4f7d8e00b6d",
+              "thumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2abcb8ae070c43480219f4f7d8e00b6d~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003doDksEl%2BmABW2tBVmqUHd8IqgDRw%3D",
+              "titlePageTags": [
+                {
+                  "picUrl": "https://p3-novel.byteimg.com/obj/novel-static/original_tag.png",
+                  "tagType": "Original",
+                  "titleTagData": [
+                    {
+                      "text": "番茄原创"
+                    }
+                  ],
+                  "url": "dragon1967://webview?loadingButHideByFront\u003d1\u0026url\u003dhttps%3a%2f%2freading.snssdk.com%2freading_offline%2fdrweb%2fpage%2fserial-area.html"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑脑洞"
+                    }
+                  ],
+                  "url": "dragon1967://categorySearch?categoryId\u003d539\u0026categoryName\u003d悬疑脑洞\u0026genreType\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑"
+                    }
+                  ],
+                  "url": "dragon1967://categorySearch?categoryId\u003d10\u0026categoryName\u003d悬疑\u0026genreType\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "末日求生"
+                    }
+                  ],
+                  "url": "dragon1967://categorySearch?categoryId\u003d515\u0026categoryName\u003d末日求生\u0026genreType\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "副本"
+                    }
+                  ],
+                  "url": "dragon1967://categorySearch?categoryId\u003d864\u0026categoryName\u003d副本\u0026genreType\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "1",
+              "type": "0",
+              "updateStatus": "0",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854751231,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":104575}}",
+              "wordNumber": "129427"
+            }
+          ],
+          "bookId": "7529080035135720472",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1008,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "断更",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "12.9万字",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "3人在读",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "悬疑脑洞",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:8:0:920468914:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "title": {
+              "highLightPosition": [
+                [
+                  5,
+                  4
+                ]
+              ],
+              "richText": "血肉迷宫：\u003cem\u003e十日终焉\u003c/em\u003e",
+              "text": "血肉迷宫：十日终焉"
+            },
+            "abstract": {
+              "highLightPosition": [
+                [
+                  13,
+                  2
+                ],
+                [
+                  73,
+                  2
+                ]
+              ],
+              "richText": "\u003cem\u003e十\u003c/em\u003e名身份成谜的男女于血肉筑成的诡异迷宫中苏醒，颈后烙印着冰冷的倒计时：10。\n他们面对的，是每\u003cem\u003e日\u003c/em\u003e轮换的致命灾难层级：扭曲空间的“人面走廊”、侵蚀心智的“认知污染”、吞噬生命的“活体森林”... \n失忆的设计师陈默、觉醒人性的观察员AI苏凉、挣扎求存的克隆体K-7，在血肉迷宫中艰难求生。陈默手背浮现的银纹、K-7珍藏的奥特曼断臂、苏凉撕裂的薄茧，成为对抗Ω系统——这座迷宫冰冷造物主的关键。\n他们必须在\u003cem\u003e十日\u003c/em\u003e内破解迷宫的\u003cem\u003e终\u003c/em\u003e极秘密：陈默被抹除的记忆、Ω筛选文明的残酷标准、以及双生苏凉纠缠的命运。\n倒计时归零之\u003cem\u003e日\u003c/em\u003e，是文明湮灭的\u003cem\u003e终焉\u003c/em\u003e，亦是人性之火能否燎原的最后审判。\n时间，是他们最残忍的狱卒。",
+              "text": "...的关键。 他们必须在十日内破解迷宫的终极秘密：陈默被抹除的记忆、Ω筛选文明的残酷标准、以及双生苏凉纠缠的命运。 倒计时归零之日，是文明湮灭的终焉，亦是人性之火能否燎原的最后审判。 时间，是他们最残忍的狱卒。"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7529080035135720472",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：殿原",
+                "text": "作者：殿原"
+              },
+              {
+                "highLightPosition": [
+                  [
+                    13,
+                    2
+                  ],
+                  [
+                    73,
+                    2
+                  ]
+                ],
+                "richText": "\u003cem\u003e十\u003c/em\u003e名身份成谜的男女于血肉筑成的诡异迷宫中苏醒，颈后烙印着冰冷的倒计时：10。\n他们面对的，是每\u003cem\u003e日\u003c/em\u003e轮换的致命灾难层级：扭曲空间的“人面走廊”、侵蚀心智的“认知污染”、吞噬生命的“活体森林”... \n失忆的设计师陈默、觉醒人性的观察员AI苏凉、挣扎求存的克隆体K-7，在血肉迷宫中艰难求生。陈默手背浮现的银纹、K-7珍藏的奥特曼断臂、苏凉撕裂的薄茧，成为对抗Ω系统——这座迷宫冰冷造物主的关键。\n他们必须在\u003cem\u003e十日\u003c/em\u003e内破解迷宫的\u003cem\u003e终\u003c/em\u003e极秘密：陈默被抹除的记忆、Ω筛选文明的残酷标准、以及双生苏凉纠缠的命运。\n倒计时归零之\u003cem\u003e日\u003c/em\u003e，是文明湮灭的\u003cem\u003e终焉\u003c/em\u003e，亦是人性之火能否燎原的最后审判。\n时间，是他们最残忍的狱卒。",
+                "text": "...的关键。 他们必须在十日内破解迷宫的终极秘密：陈默被抹除的记忆、Ω筛选文明的残酷标准、以及双生苏凉纠缠的命运。 倒计时归零之日，是文明湮灭的终焉，亦是人性之火能否燎原的最后审判。 时间，是他们最残忍的狱卒。"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        },
+        {
+          "bookData": [
+            {
+              "allBookshelfCount": "0",
+              "audioEnableRandomPlay": false,
+              "audioThumbUri": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o103de35b603ddc7c2f69e29c85969ac8~tplv-tt-cs0:440:440.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dZxra0hznc5IoCOUcJVPNmrkey9o%3D",
+              "audioThumbUrlHd": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o103de35b603ddc7c2f69e29c85969ac8~tplv-tt-cs0:620:620.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dlhfguzohWryPanGkpzC6WmmGvg0%3D",
+              "author": "山河东夫",
+              "authorizeType": "1",
+              "bookAbstract": "【无后宫+全员系统+基本无敌+慢热爽文】\n当我以为这是一处寻常的凶宅体验时，却发现来到了浮城三千。\n当我以为这里需要不断完成任务就可以回家时，却发现这里竟然有着元婴的存在。\n当我以为我要靠着元婴得到神通成神时却发现这里所有人的话都不能相信！\n答应我，不要相信任何人的话！",
+              "bookAbstractV2": "【无后宫+全员系统+基本无敌+慢热爽文】\n当我以为这是一处寻常的凶宅体验时，却发现来到了浮城三千。\n当我以为这里需要不断完成任务就可以回家时，却发现这里竟然有着元婴的存在。\n当我以为我要靠着元婴得到神通成神时却发现这里所有人的话都不能相信！\n答应我，不要相信任何人的话！",
+              "bookCommentCount": 0,
+              "bookId": "7316065999583710270",
+              "bookName": "南派十日终焉",
+              "bookNameGid": 0,
+              "bookType": "0",
+              "category": "悬疑脑洞",
+              "categorySchema": "[{\"category_id\":539,\"name\":\"悬疑脑洞\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":19,\"name\":\"系统\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d19\u0026name\u003d系统\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":10,\"name\":\"悬疑\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d10\u0026name\u003d悬疑\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"},{\"category_id\":61,\"name\":\"推理\",\"schema\":\"dragon1967://newCategoryDetail?id\u003d61\u0026name\u003d推理\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail\"}]",
+              "categoryV2Map": {
+                "19": true,
+                "10": true,
+                "539": true,
+                "61": true
+              },
+              "coinPrice": 0,
+              "colorDominate": "#181018",
+              "copyrightInfo": "版权信息：本书的数字版权由 番茄小说 提供并授权发行，如有任何疑问，请通过“我的-意见反馈”告知我们",
+              "createTime": "2023-12-24T15:52:35+08:00",
+              "creationStatus": "0",
+              "dataRate": "",
+              "detailPageThumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/deec3a106b848980b45aeba450d30541~tplv-snk2bdmkp8-superreso-double-rz:1080:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dib6BlNCQ%2BydhcKW%2Bo9JsebIInb0%3D",
+              "disableReaderFeature": 0,
+              "exclusive": "1",
+              "expandThumbUrl": "https://p3-reading-sign.fqnovelpic.com/novel-pic/deec3a106b848980b45aeba450d30541~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dWIvwggtCfI9hFDtA6gYpaZKf0VQ%3D",
+              "extra": {
+                "fold_card_new_layout": "1"
+              },
+              "firstChapterGroupId": "7316066108417524286",
+              "firstChapterItemId": "7316066108417524286",
+              "firstChapterTitle": "第1章 卖保健品的骗子",
+              "firstOnlineTime": "{\"510893\":1703404730,\"8703\":1744950849,\"35\":1703404730,\"8662\":1703404730,\"507386\":1744950849,\"1128\":1703404730,\"13\":1703404730,\"3040\":1703464491,\"6589\":1703464491,\"1967\":1703404730,\"2503\":1703404730,\"507427\":1744950849,\"8704\":1747880961,\"426946\":1736165012,\"596084\":1715141028,\"8661\":1703464491,\"2329\":1703404730,\"638505\":1724834872}",
+              "flightUserSelected": "0",
+              "gender": "1",
+              "genre": "0",
+              "genreType": "0",
+              "hasAddBookshelf": 0,
+              "hasMatchAudioBooks": false,
+              "haveSttResource": false,
+              "hideCreationStatus": false,
+              "hideListenBall": false,
+              "highlightCreationStatus": false,
+              "highlightUpdateTag": false,
+              "horizThumbUrl": "https://p6-tt.bytecdn.cn/~tplv-shrink:640:0.image",
+              "idolHasDetailPage": 0,
+              "inBookshelf": "0",
+              "indexInBooklist": 0,
+              "isEbook": "1",
+              "isFixPoster": false,
+              "isLaobai": "-1",
+              "isPubPay": false,
+              "isToufangSucai": false,
+              "isTtsHighlight": false,
+              "jumpListenWhileReading": false,
+              "keepPublishDays": "0",
+              "lastChapterGroupId": "7343054327570776600",
+              "lastChapterItemId": "7343054327570776600",
+              "lastChapterTitle": "第197章 毁灭浮城三千",
+              "lastChapterUpdateTime": "1709688104",
+              "lastPublishTime": "1709688113",
+              "latestReadItemId": "0",
+              "latestReadTime": "0",
+              "lengthType": "1",
+              "listenCount": "1",
+              "longPressAction": {
+                "longPressActionCardV2Type": 0,
+                "type": "Disable"
+              },
+              "mediaDuration": 0,
+              "mediaId": "1637553789974541",
+              "opTag": "869,536,535,245",
+              "originalAuthorInfos": [
+                {
+                  "authorId": 7172362917172483363,
+                  "authorName": "山河东夫"
+                }
+              ],
+              "originalBookName": "终焉：浮城三千",
+              "platform": "2",
+              "platformBookId": "",
+              "posterId": "0",
+              "pureCategoryTags": "悬疑脑洞,推理",
+              "rankListFirstOn": false,
+              "rankListRaisedRank": 0,
+              "rawBookName": "南派十日终焉",
+              "readCntFallbackSubText": "在读人数不足",
+              "readCntFallbackText": "潜力好书",
+              "readCntFallbackThreshold": "1000",
+              "readCntShortSubText": "",
+              "readCntSubText": "",
+              "readCntText": "潜力好书",
+              "readCntV2": "0",
+              "readCount": "19",
+              "readCountAll": "133655",
+              "readCountShowStrategy": {
+                "fallbackData": {
+                  "readCntFallbackSubText": "在读人数不足",
+                  "readCntFallbackText": "潜力好书",
+                  "readCntFallbackThreshold": 1000
+                },
+                "readCountValue": "0"
+              },
+              "readPageProgress": "0",
+              "readProgress": "0",
+              "readingGiftPermission": "1",
+              "recommendGroupId": "7316065999583710270",
+              "recommendInfo": "{\"channel_id\":\"94349567737\",\"request_id\":\"20250818175539C8C1289C73337ADC2318\",\"rank\":\"1\",\"normal_session_id\":\"4c10da81-2bd1-4282-96cb-1138868b703a\",\"cold_start_session_id\":\"410ccd29-8bba-4dfc-926c-b25cd0d6933a\"}",
+              "role": "边缘,白雪",
+              "score": "0",
+              "serialCount": "197",
+              "shelfCntHistory": "45243",
+              "showPrice": false,
+              "showVipTag": false,
+              "source": "番茄小说",
+              "subInfo": "潜力好书",
+              "subTitle": "",
+              "tagStrengthen": false,
+              "tags": "悬疑脑洞,系统",
+              "thumbUri": "novel-pic/deec3a106b848980b45aeba450d30541",
+              "thumbUrl": "https://p9-reading-sign.fqnovelpic.com/novel-pic/deec3a106b848980b45aeba450d30541~tplv-snk2bdmkp8-superreso-double-rz:1200:0.heic?lk3s\u003d64477e16\u0026x-expires\u003d1760694940\u0026x-signature\u003dDS%2Bgqn2wtWTHfqLROZBz3mJdq%2Bo%3D",
+              "titlePageTags": [
+                {
+                  "picUrl": "https://p3-novel.byteimg.com/obj/novel-static/original_tag.png",
+                  "tagType": "Original",
+                  "titleTagData": [
+                    {
+                      "text": "番茄原创"
+                    }
+                  ],
+                  "url": "dragon1967://webview?loadingButHideByFront\u003d1\u0026url\u003dhttps%3a%2f%2freading.snssdk.com%2freading_offline%2fdrweb%2fpage%2fserial-area.html"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑脑洞"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d539\u0026name\u003d悬疑脑洞\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "系统"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d19\u0026name\u003d系统\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "悬疑"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d10\u0026name\u003d悬疑\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                },
+                {
+                  "tagType": "Category",
+                  "titleTagData": [
+                    {
+                      "text": "推理"
+                    }
+                  ],
+                  "url": "dragon1967://newCategoryDetail?id\u003d61\u0026name\u003d推理\u0026genre_type\u003d0\u0026gender\u003d1\u0026source\u003ddetail"
+                }
+              ],
+              "tomatoBookStatus": "1",
+              "totalPrice": "0",
+              "ttsStatus": "1",
+              "type": "0",
+              "updateStatus": "0",
+              "visibilityInfo": "{\"1967\":{\"op_platform_visibility\":9223372036854767615,\"op_status\":1,\"copyright_status\":2,\"final_platform_visibility\":120959}}",
+              "wordNumber": "463928"
+            }
+          ],
+          "bookId": "7316065999583710270",
+          "bookWithTopicData": false,
+          "cachePageKey": "[search_data]1967.search_tolerance.16400565643637164442",
+          "categoryId": 0,
+          "cellId": 1009,
+          "cellName": "",
+          "cellOperationType": "None",
+          "cellSource": "CellSourceSearch",
+          "darenSearch": false,
+          "digestHotLineId": 0,
+          "digestItemId": 0,
+          "digestItemIndex": 0,
+          "digestLineCnt": 0,
+          "excerptLikeCnt": 0,
+          "excerptLineType": 0,
+          "fromRecommendItemCnt": 0,
+          "fromServerBackupItemCnt": 0,
+          "hasExcerptLikeMarked": false,
+          "hasMore": false,
+          "hideReadCount": 0,
+          "hideScore": 0,
+          "hideSerialCount": false,
+          "highlightChapterId": 0,
+          "isCollected": false,
+          "isDigestWithPicture": false,
+          "isSearchAggregationCellFold": false,
+          "itemRowNum": 0,
+          "mainIndex": 0,
+          "moreButtonPosition": "RightUp",
+          "nextOffset": 0,
+          "readPreferenceEntrance": false,
+          "recommendReasonLine": 1,
+          "recommendReasonTags": [
+            {
+              "canClick": false,
+              "content": "已完结",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "46.4万字",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "19人在读",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            },
+            {
+              "canClick": false,
+              "content": "悬疑脑洞",
+              "highlight": false,
+              "priority": 0,
+              "recommendType": "Unknown"
+            }
+          ],
+          "recordId": 0,
+          "removeSecondaryInfo": false,
+          "searchAttachedInfo": "10197641114206081447:9:0:4167561189:clks####1@20250818175539C8C1289C73337ADC2318",
+          "searchHighLight": {
+            "title": {
+              "highLightPosition": [
+                [
+                  2,
+                  4
+                ]
+              ],
+              "richText": "南派\u003cem\u003e十日终焉\u003c/em\u003e",
+              "text": "南派十日终焉"
+            },
+            "abstract": {
+              "highLightPosition": [],
+              "richText": "【无后宫+全员系统+基本无敌+慢热爽文】\n当我以为这是一处寻常的凶宅体验时，却发现来到了浮城三千。\n当我以为这里需要不断完成任务就可以回家时，却发现这里竟然有着元婴的存在。\n当我以为我要靠着元婴得到神通成神时却发现这里所有人的话都不能相信！\n答应我，不要相信任何人的话！",
+              "text": "【无后宫+全员系统+基本无敌+慢热爽文】 当我以为这是一处寻常的凶宅体验时，却发现来到了浮城三千。 当我以为这里需要不断完成任务就可以回家时，却发现这里竟然有着元婴的存在。 当我以为我要靠着元婴得到神通成神时却发现这里所有人的话都不能相信！ 答应我，不要相信任何人的话！"
+            }
+          },
+          "searchRecallDocType": 0,
+          "searchResultId": "7316065999583710270",
+          "showBackgroundPicture": false,
+          "showGenderType": false,
+          "showHeatInfo": false,
+          "showLivePreview": false,
+          "showText": false,
+          "showType": "SearchOneBook",
+          "slideWithCompactEffect": false,
+          "style": {
+            "audioBothJumpPlayer": false,
+            "bookCommentListAbGroup": 0,
+            "canHorizontalSlip": false,
+            "candidatePostion": "BookCover",
+            "coverSize": "SmallCoverSize",
+            "disableBookCoverTexture": false,
+            "dynamicCardMoveTitleAndEntryToBottom": false,
+            "hasPlayFromStartGuide": false,
+            "hideCellAbstractTitle": false,
+            "hideRankListOrder": false,
+            "hideSelector": false,
+            "hideTabSelector": false,
+            "hideTitle": false,
+            "intervalType": "Default",
+            "jumpToPage": "BookCover",
+            "refreshFromInnerToOuter": false,
+            "searchCellShowedStyle": "Compact",
+            "searchDoubleColCard653Style": false,
+            "seriesCellStyle": 0,
+            "showCellName": false,
+            "showDesc": false,
+            "showMoreBookAbstract": false,
+            "showMoreVideoEntrance": false,
+            "showUsername": false,
+            "slideToRecommendVideo": false,
+            "tagUseV607NewStyle": false,
+            "topicSquareWithBook": false,
+            "topicSquareWithoutPic": false,
+            "useAwemeSdk": false,
+            "useNewBooklistStyle": false,
+            "useNewOneToOnePointFourRatioStyle": false,
+            "useNewVideoFeedStyle": false,
+            "useSelectorV2": false,
+            "useWideItemSpace": false,
+            "videoFeedDataCut": false,
+            "withFavoriteButton": false
+          },
+          "subTitleNew": {
+            "highlighItemList": [
+              {
+                "highLightPosition": [],
+                "richText": "作者：山河东夫",
+                "text": "作者：山河东夫"
+              },
+              {
+                "highLightPosition": [],
+                "richText": "【无后宫+全员系统+基本无敌+慢热爽文】\n当我以为这是一处寻常的凶宅体验时，却发现来到了浮城三千。\n当我以为这里需要不断完成任务就可以回家时，却发现这里竟然有着元婴的存在。\n当我以为我要靠着元婴得到神通成神时却发现这里所有人的话都不能相信！\n答应我，不要相信任何人的话！",
+                "text": "【无后宫+全员系统+基本无敌+慢热爽文】 当我以为这是一处寻常的凶宅体验时，却发现来到了浮城三千。 当我以为这里需要不断完成任务就可以回家时，却发现这里竟然有着元婴的存在。 当我以为我要靠着元婴得到神通成神时却发现这里所有人的话都不能相信！ 答应我，不要相信任何人的话！"
+              }
+            ],
+            "lineNum": 0
+          },
+          "subTitleType": "None",
+          "unUseIcon": false,
+          "useRecommend": true,
+          "vipActPrice": 0
+        }
+      ],
+      "hasMore": true,
+      "nextOffset": 14,
+      "passback": "14",
+      "planId": 6998079171016523807,
+      "query": "十日终焉",
+      "searchId": "clks####1@20250818175539C8C1289C73337ADC2318",
+      "searchScene": "Unknown",
+      "searchTargetChannel": "xs_novel",
+      "tabType": "Common",
+      "title": "综合"
+    },
+    {
+      "hasMore": false,
+      "nextOffset": 0,
+      "passback": "",
+      "planId": 0,
+      "query": "",
+      "searchId": "clks####2@20250818175539C8C1289C73337ADC2318",
+      "searchScene": "Unknown",
+      "searchTargetChannel": "",
+      "tabType": "Voice",
+      "title": "听书"
+    },
+    {
+      "clientTemplate": "SearchComic",
+      "hasMore": false,
+      "nextOffset": 0,
+      "passback": "",
+      "planId": 0,
+      "query": "",
+      "searchId": "clks####8@20250818175539C8C1289C73337ADC2318",
+      "searchScene": "Unknown",
+      "searchTargetChannel": "",
+      "tabType": "Comic",
+      "title": "漫画"
+    },
+    {
+      "hasMore": false,
+      "nextOffset": 0,
+      "passback": "",
+      "planId": 0,
+      "query": "",
+      "searchId": "clks####3@20250818175539C8C1289C73337ADC2318",
+      "searchScene": "Unknown",
+      "searchTargetChannel": "",
+      "tabType": "Book",
+      "title": "书籍"
+    },
+    {
+      "clientTemplate": "Lynx",
+      "hasMore": false,
+      "lynxConfig": {
+        "clientAbKey": [
+          "search_full_text_new_style_v553",
+          "search_result_skeleton_config_593"
+        ],
+        "disableAsyncLayout": false,
+        "disablePrebuildLynxModel": false,
+        "hideBottomLine": false
+      },
+      "lynxUrl": "sslocal://lynxview/?surl\u003dhttps%3A%2F%2Freading.snssdk.com%2Freading_offline%2Fdrlynx%2Fsearch-tab-full-text%2Ftemplate.js\u0026prefix\u003dreading_offline",
+      "nextOffset": 0,
+      "passback": "",
+      "planId": 0,
+      "query": "",
+      "searchId": "clks####5@20250818175539C8C1289C73337ADC2318",
+      "searchScene": "Unknown",
+      "searchTargetChannel": "",
+      "tabType": "Content",
+      "title": "全文"
+    }
+  ],
+  "selectedTabIdx": 0,
+  "serverAbParams": ""
+}
