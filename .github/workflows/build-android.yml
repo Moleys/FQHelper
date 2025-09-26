@@ -40,8 +40,10 @@ jobs:
             "platform-tools" \
             "platforms;android-33" \
             "build-tools;33.0.2" \
+            "platforms;android-35" \
+            "build-tools;35.0.0" \
             "ndk;27.1.12297006" \
-            "cmake;3.25.1"
+            "cmake;3.22.1"
           yes | sdkmanager --licenses
 
       - name: Prepare Gradle
@@ -50,21 +52,23 @@ jobs:
       - name: Make Gradle wrapper executable
         run: chmod +x gradlew
 
-      - name: Ensure libxposed api AAR is present
+      - name: Ensure libxposed api AAR is present (build from source if missing)
         shell: bash
         run: |
           set -euo pipefail
-          if [ ! -f "app/libs/api-debug.aar" ]; then
-            echo "api-debug.aar not found; attempting to download from Maven Central..."
-            mkdir -p app/libs
-            URL="https://repo1.maven.org/maven2/io/github/libxposed/api/${LIBXPOSED_API_VERSION}/api-${LIBXPOSED_API_VERSION}-debug.aar"
-            echo "Downloading: $URL"
-            curl -fL "$URL" -o app/libs/api-debug.aar || {
-              echo "Failed to download libxposed api-debug.aar (version ${LIBXPOSED_API_VERSION})." >&2
-              echo "Please commit the AAR to app/libs or adjust LIBXPOSED_API_VERSION." >&2
-              exit 1
-            }
+          if [ -f "app/libs/api-debug.aar" ]; then
+            echo "Found existing app/libs/api-debug.aar"
+            exit 0
           fi
+          echo "api-debug.aar not found; building libxposed/api from source..."
+          mkdir -p app/libs
+          git clone --depth 1 https://github.com/libxposed/api.git /tmp/libxposed_api
+          pushd /tmp/libxposed_api
+          chmod +x gradlew
+          ./gradlew :api:assemble --stacktrace --no-daemon
+          popd
+          cp /tmp/libxposed_api/api/build/outputs/aar/api-debug.aar app/libs/api-debug.aar
+          ls -l app/libs/api-debug.aar
 
       - name: Build release APK (unsigned)
         run: ./gradlew clean :app:assembleRelease --stacktrace --no-daemon
